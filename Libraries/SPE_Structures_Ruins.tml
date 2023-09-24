@@ -1,0 +1,1026 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Ruins" shape="rectangle" default_fill="-16744256" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Barn_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_barn_01_ruins.p3d</File>
+        <Date>03/15/23 22:51:33</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1523727686</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.943859</BBRadius>
+        <BBHScale>1.227851</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.811142" Y="-2.164251" Z="-9.675890" />
+        <BoundingMax X="11.608009" Y="2.163055" Z="10.211828" />
+        <BoundingCenter X="-0.601566" Y="-0.000598" Z="0.267969" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_05_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_05_ruins.p3d</File>
+        <Date>06/19/23 13:10:52</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-544848989</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.288921</BBRadius>
+        <BBHScale>1.148555</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.281300" Y="-2.129113" Z="-12.818480" />
+        <BoundingMax X="13.947692" Y="11.226006" Z="11.759363" />
+        <BoundingCenter X="-0.166804" Y="4.548446" Z="-0.529558" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Small_04_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_small_04_ruins.p3d</File>
+        <Date>12/14/22 16:41:45</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1172538146</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.068181</BBRadius>
+        <BBHScale>1.230461</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.309762" Y="-1.278203" Z="-5.898739" />
+        <BoundingMax X="6.162635" Y="3.318745" Z="4.237623" />
+        <BoundingCenter X="-0.073564" Y="1.020271" Z="-0.830558" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Office_Small_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_office_small_02_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1986140782</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Townhall_Ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_townhall_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1030841806</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bunkhouse_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_bunkhouse_ruins.p3d</File>
+        <Date>03/15/23 22:51:33</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1191645541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.686384</BBRadius>
+        <BBHScale>0.803517</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.349639" Y="-1.654070" Z="-12.360849" />
+        <BoundingMax X="10.037802" Y="3.661543" Z="13.011919" />
+        <BoundingCenter X="-0.155919" Y="1.003737" Z="0.325535" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_01c_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_01c_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-858210788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_01_ruins.p3d</File>
+        <Date>03/01/23 15:42:42</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2032498273</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.865411</BBRadius>
+        <BBHScale>0.716041</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.058375" Y="-3.161838" Z="-10.188630" />
+        <BoundingMax X="7.069709" Y="3.990048" Z="9.542192" />
+        <BoundingCenter X="0.005667" Y="0.414105" Z="-0.323219" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_02_ruins.p3d</File>
+        <Date>05/26/23 14:47:21</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1560639520</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.963245</BBRadius>
+        <BBHScale>1.152092</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.922680" Y="-2.960920" Z="-13.062099" />
+        <BoundingMax X="15.947021" Y="10.372895" Z="12.864390" />
+        <BoundingCenter X="1.012171" Y="3.705988" Z="-0.098855" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_03_Ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_03_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1247508863</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_04_Ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_04_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1949338366</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Corner_house_06_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_corner_house_06_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1246678492</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Arch_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_arch_02_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1303170945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Big_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_big_01_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-519279454</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Big_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_big_02_ruins.p3d</File>
+        <Date>01/20/23 13:42:00</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1221108957</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.007778</BBRadius>
+        <BBHScale>0.781766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.462540" Y="-2.701139" Z="-10.554413" />
+        <BoundingMax X="9.312000" Y="3.304776" Z="13.461143" />
+        <BoundingCenter X="-0.075270" Y="0.301818" Z="1.453365" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Big_03_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_big_03_ruins.p3d</File>
+        <Date>01/20/23 13:42:00</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1922938460</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.388700</BBRadius>
+        <BBHScale>1.941089</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.904535" Y="-1.393034" Z="-5.660147" />
+        <BoundingMax X="12.897539" Y="3.314309" Z="7.117252" />
+        <BoundingCenter X="0.496502" Y="0.960638" Z="0.728553" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Small_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_small_01_ruins.p3d</File>
+        <Date>06/19/23 13:35:36</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>932950363</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.797789</BBRadius>
+        <BBHScale>0.790959</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.853354" Y="-2.630851" Z="-14.190974" />
+        <BoundingMax X="10.391697" Y="6.839153" Z="11.404602" />
+        <BoundingCenter X="0.269171" Y="2.104151" Z="-1.393186" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Small_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_small_02_ruins.p3d</File>
+        <Date>12/14/22 16:41:45</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>231120860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.023746</BBRadius>
+        <BBHScale>1.510105</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.263736" Y="-2.190198" Z="-9.969210" />
+        <BoundingMax X="15.010091" Y="2.018055" Z="10.078281" />
+        <BoundingCenter X="-0.126822" Y="-0.086072" Z="0.054536" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Small_03_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_small_03_ruins.p3d</File>
+        <Date>12/14/22 16:41:45</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-470708643</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.081459</BBRadius>
+        <BBHScale>0.939921</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.788946" Y="-2.481572" Z="-11.155966" />
+        <BoundingMax X="10.042444" Y="3.401281" Z="11.006952" />
+        <BoundingCenter X="-0.373251" Y="0.459854" Z="-0.074507" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Thatch_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_thatch_02_ruins.p3d</File>
+        <Date>03/01/23 15:42:42</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1302381557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.417895</BBRadius>
+        <BBHScale>0.682770</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.527575" Y="-1.701299" Z="-8.653886" />
+        <BoundingMax X="5.967397" Y="2.967784" Z="8.181905" />
+        <BoundingCenter X="0.219911" Y="0.633243" Z="-0.235991" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Thatch_04_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_thatch_04_ruins.p3d</File>
+        <Date>03/01/23 15:42:42</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1588926733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.859931</BBRadius>
+        <BBHScale>0.773305</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.674959" Y="-1.836369" Z="-7.814995" />
+        <BoundingMax X="6.481293" Y="2.299519" Z="7.904867" />
+        <BoundingCenter X="0.403167" Y="0.231575" Z="0.044936" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Office_Small_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_office_small_01_ruins.p3d</File>
+        <Date>07/27/23 11:39:31</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1284311279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.639340</BBRadius>
+        <BBHScale>0.869082</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.954635" Y="-2.454943" Z="-13.271873" />
+        <BoundingMax X="10.276451" Y="7.632257" Z="10.006807" />
+        <BoundingCenter X="0.160908" Y="2.588657" Z="-1.632533" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_03_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_shop_03_ruins.p3d</File>
+        <Date>09/14/23 11:33:49</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1899080705</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_04_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_shop_04_ruins.p3d</File>
+        <Date>12/14/22 16:41:45</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1197251202</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.206803</BBRadius>
+        <BBHScale>0.837864</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.942281" Y="-1.553776" Z="-9.727100" />
+        <BoundingMax X="9.161554" Y="2.896566" Z="10.686506" />
+        <BoundingCenter X="0.609637" Y="0.671395" Z="0.479703" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Big_04_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_big_04_ruins.p3d</File>
+        <Date>06/15/23 11:54:23</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1670199333</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.417633</BBRadius>
+        <BBHScale>0.945057</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.056540" Y="-2.746914" Z="-12.394502" />
+        <BoundingMax X="10.524099" Y="10.295954" Z="10.440763" />
+        <BoundingCenter X="-0.266220" Y="3.774520" Z="-0.976869" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_shop_01_ruins.p3d</File>
+        <Date>06/28/23 12:21:15</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-992227585</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.922722</BBRadius>
+        <BBHScale>1.014263</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.190185" Y="-3.155145" Z="-9.502374" />
+        <BoundingMax X="9.938315" Y="9.644206" Z="10.343070" />
+        <BoundingCenter X="-0.125935" Y="3.244530" Z="0.420348" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Thatch_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_thatch_01_ruins.p3d</File>
+        <Date>03/01/23 15:42:42</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-600552054</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.721821</BBRadius>
+        <BBHScale>0.815887</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.830344" Y="-1.501609" Z="-6.830635" />
+        <BoundingMax X="5.769924" Y="6.499931" Z="8.613007" />
+        <BoundingCenter X="-0.530210" Y="2.499161" Z="0.891186" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Thatch_03_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_thatch_03_ruins.p3d</File>
+        <Date>01/20/23 13:42:00</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2004211060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.289678</BBRadius>
+        <BBHScale>0.879342</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.772203" Y="-1.769915" Z="-8.284227" />
+        <BoundingMax X="7.806718" Y="3.351470" Z="8.295128" />
+        <BoundingCenter X="0.517257" Y="0.790778" Z="0.005450" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Thatch_05_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_thatch_05_ruins.p3d</File>
+        <Date>01/20/23 13:42:00</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>887097230</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.905255</BBRadius>
+        <BBHScale>0.977046</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.426293" Y="-2.327755" Z="-9.248547" />
+        <BoundingMax X="8.975404" Y="5.592758" Z="8.561964" />
+        <BoundingCenter X="0.274555" Y="1.632501" Z="-0.343291" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_02_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_shop_02_ruins.p3d</File>
+        <Date>05/26/23 14:46:40</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1694057088</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.361304</BBRadius>
+        <BBHScale>1.493579</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.303644" Y="-1.956589" Z="-9.040769" />
+        <BoundingMax X="13.660044" Y="10.370661" Z="9.681840" />
+        <BoundingCenter X="-0.321800" Y="4.207036" Z="0.320536" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_House_Arch_01_ruins</Name>
+        <File>ww2\spe_structures\ruins\spe_house_arch_01_ruins.p3d</File>
+        <Date>06/09/23 16:01:18</Date>
+        <Archive></Archive>
+        <Fill>-16744256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2005000448</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.926618</BBRadius>
+        <BBHScale>1.608347</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.477055" Y="-3.632610" Z="-9.291882" />
+        <BoundingMax X="18.453844" Y="12.745771" Z="10.561354" />
+        <BoundingCenter X="2.488395" Y="4.556581" Z="0.634736" />
+        <Placement></Placement>
+    </Template>
+</Library>

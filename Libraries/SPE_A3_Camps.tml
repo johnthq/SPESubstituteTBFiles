@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="SPE_A3_Camps" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_A3_caravan_01_green</Name>
+        <File>ww2\spe_structures\spe_a3_camps\spe_a3_caravan_01_green.p3d</File>
+        <Date>06/07/22 16:38:16</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1998508188</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.820750</BBRadius>
+        <BBHScale>0.243215</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.157760" Y="-0.159179" Z="-4.938540" />
+        <BoundingMax X="1.187200" Y="3.487320" Z="4.702960" />
+        <BoundingCenter X="0.014720" Y="1.664071" Z="-0.117790" />
+        <Placement></Placement>
+    </Template>
+</Library>

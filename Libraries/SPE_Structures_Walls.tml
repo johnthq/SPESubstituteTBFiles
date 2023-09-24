@@ -1,0 +1,3402 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Walls" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Stonewall_Low_4m</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_4m.p3d</File>
+        <Date>06/06/23 11:02:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-9453621</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.314124</BBRadius>
+        <BBHScale>6.436770</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.021899" Y="-0.752216" Z="-0.314124" />
+        <BoundingMax X="2.021987" Y="1.001060" Z="0.314124" />
+        <BoundingCenter X="0.000044" Y="0.124422" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_4m_LC</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_4m_lc.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1837816907</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.314124</BBRadius>
+        <BBHScale>6.436770</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.021899" Y="-0.752216" Z="-0.314124" />
+        <BoundingMax X="2.021987" Y="1.001060" Z="0.314124" />
+        <BoundingCenter X="0.000044" Y="0.124422" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_8m</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_8m.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-9191225</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.311757</BBRadius>
+        <BBHScale>12.925469</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.029858" Y="-0.752216" Z="-0.311757" />
+        <BoundingMax X="4.029349" Y="1.003261" Z="0.311757" />
+        <BoundingCenter X="-0.000254" Y="0.125523" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_8m_LC</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_8m_lc.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2101106767</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.311757</BBRadius>
+        <BBHScale>12.925469</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.029858" Y="-0.752216" Z="-0.311757" />
+        <BoundingMax X="4.029349" Y="1.003261" Z="0.311757" />
+        <BoundingCenter X="-0.000254" Y="0.125523" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_Dam_01</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_dam_01.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1714396446</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.366549</BBRadius>
+        <BBHScale>1.690986</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.002135" Y="-0.752216" Z="-2.396019" />
+        <BoundingMax X="4.001468" Y="1.027416" Z="2.337078" />
+        <BoundingCenter X="-0.000334" Y="0.137600" Z="-0.029470" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_Dam_01_LC</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_dam_01_lc.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1607386508</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.366549</BBRadius>
+        <BBHScale>1.690986</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.002135" Y="-0.752216" Z="-2.396019" />
+        <BoundingMax X="4.001468" Y="1.027416" Z="2.337078" />
+        <BoundingCenter X="-0.000334" Y="0.137600" Z="-0.029470" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_Dam_02</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_dam_02.p3d</File>
+        <Date>06/06/23 11:02:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1714396445</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.366549</BBRadius>
+        <BBHScale>1.699633</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.026469" Y="-0.752400" Z="-2.396019" />
+        <BoundingMax X="4.018058" Y="0.462961" Z="2.337078" />
+        <BoundingCenter X="-0.004205" Y="-0.144719" Z="-0.029470" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_Dam_02_LC</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_dam_02_lc.p3d</File>
+        <Date>06/06/23 11:02:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-826799309</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.366549</BBRadius>
+        <BBHScale>1.699633</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.026469" Y="-0.752400" Z="-2.396019" />
+        <BoundingMax X="4.018058" Y="0.462961" Z="2.337078" />
+        <BoundingCenter X="-0.004205" Y="-0.144719" Z="-0.029470" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Stonewall_Low_Pillar</Name>
+        <File>ww2\spe_structures\walls\stone\low wall\spe_stonewall_low_pillar.p3d</File>
+        <Date>06/06/23 11:02:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1688670468</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.427732</BBRadius>
+        <BBHScale>1.340256</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.596541" Y="-0.756388" Z="-0.419516" />
+        <BoundingMax X="0.550000" Y="1.000644" Z="0.435948" />
+        <BoundingCenter X="-0.023271" Y="0.122128" Z="0.008216" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Gate_01_Blue</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_gate_01_blue.p3d</File>
+        <Date>06/06/23 17:08:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1219382414</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.643600</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.248459" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.258486" Y="2.848629" Z="3.448396" />
+        <BoundingCenter X="0.005014" Y="0.761589" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Gate_01_Green</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_gate_01_green.p3d</File>
+        <Date>06/06/23 17:08:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>863170795</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.643600</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.248459" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.258486" Y="2.848629" Z="3.448396" />
+        <BoundingCenter X="0.005014" Y="0.761589" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Gate_01_White</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_gate_01_white.p3d</File>
+        <Date>06/06/23 17:09:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1560544463</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.643600</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.248459" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.258486" Y="2.848629" Z="3.448396" />
+        <BoundingCenter X="0.005014" Y="0.761589" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_01_Ruin</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_pillar_01_ruin.p3d</File>
+        <Date>06/06/23 17:08:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-698142817</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.300000</BBRadius>
+        <BBHScale>1.000001</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.300000" Y="-1.325452" Z="-0.297541" />
+        <BoundingMax X="0.300000" Y="0.975996" Z="0.302459" />
+        <BoundingCenter X="0.000000" Y="-0.174728" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_01_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_pillar_01_small.p3d</File>
+        <Date>06/06/23 17:08:25</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1110764272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000049</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.339498" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="1.660858" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.160680" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_pillar_01_tall.p3d</File>
+        <Date>06/06/23 17:08:25</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>697998276</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.325452" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="2.598639" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.636593" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_pillar_02_tall.p3d</File>
+        <Date>06/06/23 17:08:25</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1070005507</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.353000</BBRadius>
+        <BBHScale>0.993627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.350750" Y="-1.325452" Z="-0.350541" />
+        <BoundingMax X="0.350750" Y="2.791075" Z="0.355458" />
+        <BoundingCenter X="0.000000" Y="0.732811" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_gate.p3d</File>
+        <Date>06/06/23 17:08:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1489016734</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Short</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_short.p3d</File>
+        <Date>06/06/23 17:08:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>56070021</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Short_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_short_d.p3d</File>
+        <Date>06/06/23 17:08:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1952265418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Short_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_short_end.p3d</File>
+        <Date>06/06/23 17:08:23</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>94743201</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_tall.p3d</File>
+        <Date>06/06/23 17:08:23</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>68157476</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_tall_d.p3d</File>
+        <Date>06/12/23 15:21:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>237585897</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_tall_dam.p3d</File>
+        <Date>06/06/23 17:08:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-151782987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_01_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_01_tall_end.p3d</File>
+        <Date>06/12/23 15:38:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-407036864</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401631</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_gate.p3d</File>
+        <Date>06/12/23 15:21:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1117009503</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Short</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_short.p3d</File>
+        <Date>06/06/23 17:08:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-645759482</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.932032" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="0.303290" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Short_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_short_d.p3d</File>
+        <Date>06/06/23 17:08:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1198977739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.065302" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.130075" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Short_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_short_end.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1816033314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536733</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036164" Y="1.065302" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.130075" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_tall.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>440164707</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909082</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_tall_d.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1321535576</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.242372" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.458460" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_tall_dam.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1471497228</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909085</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_02_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_02_tall_end.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1726751105</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.507475</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.082740" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="-0.688905" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_gate.p3d</File>
+        <Date>06/06/23 17:08:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-745002272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Short</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_short.p3d</File>
+        <Date>06/12/23 15:21:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1347588985</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Short_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_short_d.p3d</File>
+        <Date>06/06/23 17:08:20</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>445690060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Short_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_short_end.p3d</File>
+        <Date>06/12/23 15:21:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-757643869</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_tall.p3d</File>
+        <Date>06/06/23 17:08:20</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>812171938</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_tall_d.p3d</File>
+        <Date>06/06/23 17:08:19</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1414310247</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_tall_dam.p3d</File>
+        <Date>06/06/23 17:08:19</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1503755827</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_03_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_03_tall_end.p3d</File>
+        <Date>07/11/23 10:38:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1248501950</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Dark_01_Ruin</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_pillar_dark_01_ruin.p3d</File>
+        <Date>06/07/23 12:35:17</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1798393692</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.300000</BBRadius>
+        <BBHScale>1.000001</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.300000" Y="-1.325452" Z="-0.297541" />
+        <BoundingMax X="0.300000" Y="0.975996" Z="0.302459" />
+        <BoundingCenter X="0.000000" Y="-0.174728" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Dark_01_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_pillar_dark_01_small.p3d</File>
+        <Date>06/07/23 12:35:17</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>457495883</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000049</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.339498" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="1.660858" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.160680" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Dark_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_pillar_dark_01_tall.p3d</File>
+        <Date>06/07/23 12:35:17</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-402252599</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.325452" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="2.598639" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.636593" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Dark_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_pillar_dark_02_tall.p3d</File>
+        <Date>06/07/23 12:35:17</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-30245368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.353000</BBRadius>
+        <BBHScale>0.993627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.350750" Y="-1.325452" Z="-0.350541" />
+        <BoundingMax X="0.350750" Y="2.791075" Z="0.355458" />
+        <BoundingCenter X="0.000000" Y="0.732811" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_gate.p3d</File>
+        <Date>06/07/23 12:35:17</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1235327143</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_small.p3d</File>
+        <Date>06/07/23 12:35:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>192784811</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_small_d.p3d</File>
+        <Date>06/07/23 12:35:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1446208528</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_small_end.p3d</File>
+        <Date>06/07/23 12:35:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1049091783</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_tall.p3d</File>
+        <Date>06/07/23 12:35:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1502465943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_tall_d.p3d</File>
+        <Date>06/07/23 12:35:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1684906926</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_tall_dam.p3d</File>
+        <Date>06/07/23 12:35:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1747204870</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_01_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_01_tall_end.p3d</File>
+        <Date>06/07/23 12:35:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2002458747</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401631</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_gate.p3d</File>
+        <Date>06/07/23 12:35:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1607334374</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_small.p3d</File>
+        <Date>06/07/23 12:35:14</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-509044692</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.932032" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="0.303290" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_small_d.p3d</File>
+        <Date>06/12/23 15:27:59</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2095471089</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.065302" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.130075" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_small_end.p3d</File>
+        <Date>06/07/23 12:35:14</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1524585400</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536733</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036164" Y="1.065302" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.130075" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_tall.p3d</File>
+        <Date>06/07/23 12:35:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1130458712</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909082</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_tall_d.p3d</File>
+        <Date>06/07/23 12:35:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>125785453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.242372" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.458460" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_tall_dam.p3d</File>
+        <Date>06/07/23 12:35:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1228048185</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909085</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_02_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_02_tall_end.p3d</File>
+        <Date>06/07/23 12:36:52</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>972794308</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.507475</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.082740" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="-0.688905" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_gate.p3d</File>
+        <Date>06/07/23 12:35:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1979341605</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_small.p3d</File>
+        <Date>06/07/23 12:35:11</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1210874195</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_small_d.p3d</File>
+        <Date>06/07/23 12:35:12</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1342183410</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_small_end.p3d</File>
+        <Date>06/07/23 12:35:12</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>196704713</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_tall.p3d</File>
+        <Date>06/07/23 12:35:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-758451481</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_tall_d.p3d</File>
+        <Date>06/07/23 12:35:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1433336020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_tall_dam.p3d</File>
+        <Date>06/07/23 12:35:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-91666056</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Dark_03_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french dark\spe_french_wall_dark_03_tall_end.p3d</File>
+        <Date>06/07/23 12:35:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-346919933</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Light_01_Ruin</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_pillar_light_01_ruin.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>733457814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.300000</BBRadius>
+        <BBHScale>1.000001</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.300000" Y="-1.325452" Z="-0.297541" />
+        <BoundingMax X="0.300000" Y="0.975996" Z="0.302459" />
+        <BoundingCenter X="0.000000" Y="-0.174728" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Light_01_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_pillar_light_01_small.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>999101657</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000049</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.339498" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="1.660858" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.160680" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Light_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_pillar_light_01_tall.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2129598907</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.320005</BBRadius>
+        <BBHScale>1.000050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320021" Y="-1.325452" Z="-0.317494" />
+        <BoundingMax X="0.320021" Y="2.598639" Z="0.322516" />
+        <BoundingCenter X="0.000000" Y="0.636593" Z="0.002511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Pillar_Light_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_pillar_light_02_tall.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1793361158</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.353000</BBRadius>
+        <BBHScale>0.993627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.350750" Y="-1.325452" Z="-0.350541" />
+        <BoundingMax X="0.350750" Y="2.791075" Z="0.355458" />
+        <BoundingCenter X="0.000000" Y="0.732811" Z="0.002459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_gate.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>307713625</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_small.p3d</File>
+        <Date>06/07/23 14:04:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>770267257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_small_d.p3d</File>
+        <Date>06/07/23 14:04:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1521599422</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_small_end.p3d</File>
+        <Date>06/07/23 14:04:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1723465621</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_tall.p3d</File>
+        <Date>06/07/23 14:04:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1864887835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_tall_d.p3d</File>
+        <Date>06/07/23 14:04:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1950635936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_tall_dam.p3d</File>
+        <Date>06/07/23 14:04:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1208914092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_01_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_01_tall_end.p3d</File>
+        <Date>06/07/23 14:04:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>953660215</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401631</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_gate.p3d</File>
+        <Date>06/07/23 14:04:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>679720856</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_small.p3d</File>
+        <Date>06/07/23 14:04:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>68437754</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.932032" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="0.303290" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_small_d.p3d</File>
+        <Date>06/07/23 14:04:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>768311743</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.065302" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.130075" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_small_end.p3d</File>
+        <Date>06/07/23 14:04:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-850211562</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536733</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036164" Y="1.065302" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.130075" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_tall.p3d</File>
+        <Date>06/07/23 14:04:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2058072230</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909082</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_tall_d.p3d</File>
+        <Date>06/07/23 14:04:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>785209887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.242372" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.458460" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_tall_dam.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-110800149</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909085</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_02_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_02_tall_end.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-366054026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.507475</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.082740" Y="2.242372" Z="0.220001" />
+        <BoundingCenter X="-0.688905" Y="0.458460" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Gate</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_gate.p3d</File>
+        <Date>06/07/23 14:04:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1051728087</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Small</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_small.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-633391749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="1.520000" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="0.000000" Y="-0.019105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Small_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_small_d.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>15024064</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="1.287242" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="-0.019105" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Small_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_small_end.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>871078551</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.536741</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="0.036164" Y="1.287242" Z="0.220000" />
+        <BoundingCenter X="-0.741918" Y="-0.019105" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Tall</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_tall.p3d</File>
+        <Date>06/07/23 14:04:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1686064999</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909088</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Tall_d</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_tall_d.p3d</File>
+        <Date>06/07/23 14:04:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-773911586</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.501355</BBRadius>
+        <BBHScale>0.609077</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132595" Y="-1.325452" Z="-3.554314" />
+        <BoundingMax X="2.132595" Y="2.464312" Z="3.448396" />
+        <BoundingCenter X="-0.000000" Y="0.569430" Z="-0.052959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Tall_dam</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_tall_dam.p3d</File>
+        <Date>06/07/23 14:04:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1430514390</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>6.909090</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.520000" Y="-1.325452" Z="-0.219999" />
+        <BoundingMax X="1.520000" Y="2.464312" Z="0.220001" />
+        <BoundingCenter X="0.000000" Y="0.569430" Z="0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Light_03_Tall_End</Name>
+        <File>ww2\spe_structures\walls\stone\french light\spe_french_wall_light_03_tall_end.p3d</File>
+        <Date>06/07/23 14:04:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1685768267</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220000</BBRadius>
+        <BBHScale>3.401627</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.460549" Y="-1.325452" Z="-0.220000" />
+        <BoundingMax X="0.036167" Y="2.464312" Z="0.220000" />
+        <BoundingCenter X="-0.712191" Y="0.569430" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_French_Wall_Ruin</Name>
+        <File>ww2\spe_structures\walls\stone\french\spe_french_wall_ruin.p3d</File>
+        <Date>06/06/23 17:08:19</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1722826065</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.924028</BBRadius>
+        <BBHScale>1.000273</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.880933" Y="-1.059174" Z="-1.945504" />
+        <BoundingMax X="1.968173" Y="0.474436" Z="1.902552" />
+        <BoundingCenter X="0.043620" Y="-0.292369" Z="-0.021476" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v1</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v1.p3d</File>
+        <Date>02/28/23 14:02:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1764236293</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013432</BBRadius>
+        <BBHScale>0.087283</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.184414" Y="-0.039582" Z="-2.014491" />
+        <BoundingMax X="0.167062" Y="1.457168" Z="2.012372" />
+        <BoundingCenter X="-0.008676" Y="0.708793" Z="-0.001060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v1_LC</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v1_lc.p3d</File>
+        <Date>02/28/23 14:02:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1832592357</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013432</BBRadius>
+        <BBHScale>0.087283</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.184414" Y="-0.039582" Z="-2.014491" />
+        <BoundingMax X="0.167062" Y="1.457168" Z="2.012372" />
+        <BoundingCenter X="-0.008676" Y="0.708793" Z="-0.001060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v2</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v2.p3d</File>
+        <Date>02/28/23 14:02:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1764236292</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013432</BBRadius>
+        <BBHScale>0.084927</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.184414" Y="-0.039582" Z="-2.014491" />
+        <BoundingMax X="0.157575" Y="0.860225" Z="2.012372" />
+        <BoundingCenter X="-0.013419" Y="0.410321" Z="-0.001060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v2_LC</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v2_lc.p3d</File>
+        <Date>02/28/23 14:02:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1052005158</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013432</BBRadius>
+        <BBHScale>0.084927</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.184414" Y="-0.039582" Z="-2.014491" />
+        <BoundingMax X="0.157575" Y="0.860225" Z="2.012372" />
+        <BoundingCenter X="-0.013419" Y="0.410321" Z="-0.001060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v3</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v3.p3d</File>
+        <Date>05/22/23 16:15:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1764236291</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013399</BBRadius>
+        <BBHScale>0.084295</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.181863" Y="-0.039582" Z="-2.014491" />
+        <BoundingMax X="0.157575" Y="0.567418" Z="2.012306" />
+        <BoundingCenter X="-0.012144" Y="0.263918" Z="-0.001092" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_TrenchLogWall_01_4m_v3_LC</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_trenchlogwall_01_4m_v3_lc.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-271417959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

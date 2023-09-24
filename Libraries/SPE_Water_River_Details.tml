@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Water_River_Details" shape="rectangle" default_fill="-16776961" default_outline="-1" tex="0">
+    <Template>
+        <Name>spe_riverbank_grasstop_01</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverbank_grasstop_01.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1853920947</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.167816</BBRadius>
+        <BBHScale>0.403961</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.671427" Y="-1.061585" Z="-2.258014" />
+        <BoundingMax X="1.695845" Y="1.661584" Z="6.077619" />
+        <BoundingCenter X="0.012209" Y="0.300000" Z="1.909803" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverbank_grasstop_02</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverbank_grasstop_02.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1853920948</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.235050</BBRadius>
+        <BBHScale>0.570889</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.424662" Y="-1.065414" Z="-2.392132" />
+        <BoundingMax X="2.410823" Y="1.667596" Z="6.077968" />
+        <BoundingCenter X="-0.006920" Y="0.301091" Z="1.842918" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverbank_grasstop_03</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverbank_grasstop_03.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1853920949</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.205336</BBRadius>
+        <BBHScale>0.958957</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.079749" Y="-1.176412" Z="-2.334539" />
+        <BoundingMax X="3.985723" Y="1.715850" Z="6.076133" />
+        <BoundingCenter X="-0.047013" Y="0.269719" Z="1.870797" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverside_leaves_pile_01</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverside_leaves_pile_01.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1804787394</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.516937</BBRadius>
+        <BBHScale>0.387967</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.578319" Y="-0.039145" Z="-1.517449" />
+        <BoundingMax X="0.598723" Y="0.125955" Z="1.516426" />
+        <BoundingCenter X="0.010202" Y="0.043405" Z="-0.000512" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverside_leaves_pile_02</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverside_leaves_pile_02.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1804787393</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.380586</BBRadius>
+        <BBHScale>0.628654</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.912938" Y="-0.054368" Z="-1.276641" />
+        <BoundingMax X="0.822885" Y="0.116019" Z="1.484532" />
+        <BoundingCenter X="-0.045026" Y="0.030825" Z="0.103945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverside_leaves_pile_03</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverside_leaves_pile_03.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1804787392</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.053510</BBRadius>
+        <BBHScale>0.235593</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.837838" Y="-0.054368" Z="-3.093362" />
+        <BoundingMax X="0.600931" Y="0.116019" Z="3.013658" />
+        <BoundingCenter X="-0.118453" Y="0.030825" Z="-0.039852" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spe_riverside_leaves_pile_04</Name>
+        <File>ww2\spe_water\riverdetails\spe_riverside_leaves_pile_04.p3d</File>
+        <Date>03/02/23 14:51:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1804787391</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.143628</BBRadius>
+        <BBHScale>0.301367</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.062554" Y="-0.054368" Z="-3.130356" />
+        <BoundingMax X="0.832216" Y="0.116019" Z="3.156899" />
+        <BoundingCenter X="-0.115169" Y="0.030825" Z="0.013272" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,1059 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Industrial" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Barn_Thatch_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_barn_thatch_01.p3d</File>
+        <Date>05/22/23 13:35:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-45351993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.433557</BBRadius>
+        <BBHScale>0.528305</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.514895" Y="-1.433526" Z="-10.553238" />
+        <BoundingMax X="4.565907" Y="5.741737" Z="12.313875" />
+        <BoundingCenter X="-1.474494" Y="2.154106" Z="0.880319" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Barn_Thatch_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_barn_thatch_02.p3d</File>
+        <Date>05/22/23 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-45351992</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.414250</BBRadius>
+        <BBHScale>1.369909</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.169034" Y="-1.429413" Z="-3.443857" />
+        <BoundingMax X="3.185388" Y="5.749154" Z="3.384643" />
+        <BoundingCenter X="-1.491823" Y="2.159871" Z="-0.029607" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Windmill</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_windmill.p3d</File>
+        <Date>05/22/23 13:35:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-936500709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.456239</BBRadius>
+        <BBHScale>1.443581</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.951715" Y="-2.325463" Z="-5.466154" />
+        <BoundingMax X="9.688498" Y="19.177797" Z="7.446324" />
+        <BoundingCenter X="0.368392" Y="8.426167" Z="0.990085" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Barn_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_barn_01.p3d</File>
+        <Date>05/22/23 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>573744174</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.106652</BBRadius>
+        <BBHScale>1.135862</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.331648" Y="-0.892544" Z="-4.949209" />
+        <BoundingMax X="7.812706" Y="7.238532" Z="9.264095" />
+        <BoundingCenter X="-0.259471" Y="3.172994" Z="2.157443" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Farmhouse_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_farmhouse_01.p3d</File>
+        <Date>05/22/23 13:35:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1992753619</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.017706</BBRadius>
+        <BBHScale>1.010862</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.566238" Y="-1.979610" Z="-8.773718" />
+        <BoundingMax X="7.643348" Y="9.932480" Z="7.261693" />
+        <BoundingCenter X="-0.461445" Y="3.976435" Z="-0.756012" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_Black_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_black_01.p3d</File>
+        <Date>05/22/23 13:35:42</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>865141169</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368232</BBRadius>
+        <BBHScale>0.580630</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.664368" Y="-0.043231" Z="-1.166386" />
+        <BoundingMax X="0.924504" Y="0.619593" Z="1.570077" />
+        <BoundingCenter X="0.130068" Y="0.288181" Z="0.201845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_Black_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_black_02.p3d</File>
+        <Date>05/22/23 13:35:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>865141170</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.170919</BBRadius>
+        <BBHScale>0.626849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605013" Y="-0.066694" Z="-1.244068" />
+        <BoundingMax X="0.862965" Y="0.773963" Z="1.097770" />
+        <BoundingCenter X="0.128976" Y="0.353634" Z="-0.073149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_BlackWhite_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_blackwhite_01.p3d</File>
+        <Date>05/22/23 13:35:42</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>244225094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368232</BBRadius>
+        <BBHScale>0.580630</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.664368" Y="-0.043231" Z="-1.166386" />
+        <BoundingMax X="0.924504" Y="0.619593" Z="1.570077" />
+        <BoundingCenter X="0.130068" Y="0.288181" Z="0.201845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_BlackWhite_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_blackwhite_02.p3d</File>
+        <Date>05/22/23 13:35:42</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>244225095</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.170919</BBRadius>
+        <BBHScale>0.626849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605013" Y="-0.066694" Z="-1.244068" />
+        <BoundingMax X="0.862965" Y="0.773963" Z="1.097770" />
+        <BoundingCenter X="0.128976" Y="0.353634" Z="-0.073149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_Brown_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_brown_01.p3d</File>
+        <Date>05/22/23 13:35:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1225508986</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368232</BBRadius>
+        <BBHScale>0.580630</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.664368" Y="-0.043231" Z="-1.166386" />
+        <BoundingMax X="0.924504" Y="0.619593" Z="1.570077" />
+        <BoundingCenter X="0.130068" Y="0.288181" Z="0.201845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_Brown_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_brown_02.p3d</File>
+        <Date>05/22/23 13:35:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1225508987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.170919</BBRadius>
+        <BBHScale>0.626849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605013" Y="-0.066694" Z="-1.244068" />
+        <BoundingMax X="0.862965" Y="0.773963" Z="1.097770" />
+        <BoundingCenter X="0.128976" Y="0.353634" Z="-0.073149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_BrownWhite_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_brownwhite_01.p3d</File>
+        <Date>05/22/23 13:35:38</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1302571197</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368232</BBRadius>
+        <BBHScale>0.580630</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.664368" Y="-0.043231" Z="-1.166386" />
+        <BoundingMax X="0.924504" Y="0.619593" Z="1.570077" />
+        <BoundingCenter X="0.130068" Y="0.288181" Z="0.201845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_BrownWhite_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_brownwhite_02.p3d</File>
+        <Date>05/22/23 13:35:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1302571198</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.170919</BBRadius>
+        <BBHScale>0.626849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605013" Y="-0.066694" Z="-1.244068" />
+        <BoundingMax X="0.862965" Y="0.773963" Z="1.097770" />
+        <BoundingCenter X="0.128976" Y="0.353634" Z="-0.073149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_White_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_white_01.p3d</File>
+        <Date>05/22/23 13:35:36</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480937703</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368232</BBRadius>
+        <BBHScale>0.580630</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.664368" Y="-0.043231" Z="-1.166386" />
+        <BoundingMax X="0.924504" Y="0.619593" Z="1.570077" />
+        <BoundingCenter X="0.130068" Y="0.288181" Z="0.201845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cow_Dead_White_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_cow_dead_white_02.p3d</File>
+        <Date>05/22/23 13:35:33</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480937704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.170919</BBRadius>
+        <BBHScale>0.626849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605013" Y="-0.066694" Z="-1.244068" />
+        <BoundingMax X="0.862965" Y="0.773963" Z="1.097770" />
+        <BoundingCenter X="0.128976" Y="0.353634" Z="-0.073149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Haystack</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_haystack.p3d</File>
+        <Date>05/22/23 13:35:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1186645601</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.957899</BBRadius>
+        <BBHScale>1.012291</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.880048" Y="-0.268747" Z="-1.895146" />
+        <BoundingMax X="2.083879" Y="4.562698" Z="2.020652" />
+        <BoundingCenter X="0.101916" Y="2.146976" Z="0.062753" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Haystack_destroyed_v1</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_haystack_destroyed_v1.p3d</File>
+        <Date>05/22/23 13:35:30</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1690313823</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.447450</BBRadius>
+        <BBHScale>0.907588</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.859202" Y="-0.272272" Z="-2.516259" />
+        <BoundingMax X="2.583352" Y="1.313813" Z="2.378642" />
+        <BoundingCenter X="0.362075" Y="0.520770" Z="-0.068809" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Haystack_destroyed_v2</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_haystack_destroyed_v2.p3d</File>
+        <Date>05/22/23 13:35:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1690313822</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.447450</BBRadius>
+        <BBHScale>0.907588</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.859202" Y="-0.272272" Z="-2.516259" />
+        <BoundingMax X="2.583352" Y="1.313813" Z="2.378642" />
+        <BoundingCenter X="0.362075" Y="0.520770" Z="-0.068809" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Haystack_low</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_haystack_low.p3d</File>
+        <Date>05/22/23 13:35:27</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1629464652</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.673809</BBRadius>
+        <BBHScale>1.027228</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.734651" Y="-0.304602" Z="-1.672584" />
+        <BoundingMax X="1.704115" Y="2.560133" Z="1.675035" />
+        <BoundingCenter X="-0.015268" Y="1.127765" Z="0.001225" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_StrawStack_01_destroyed_v1</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_strawstack_01_destroyed_v1.p3d</File>
+        <Date>05/22/23 13:35:27</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1325568856</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.518501</BBRadius>
+        <BBHScale>2.411205</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.933798" Y="-1.427334" Z="-4.633245" />
+        <BoundingMax X="10.856264" Y="1.669963" Z="4.403756" />
+        <BoundingCenter X="-0.038767" Y="0.121315" Z="-0.114745" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_StrawStack_01_destroyed_v2</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_strawstack_01_destroyed_v2.p3d</File>
+        <Date>05/22/23 13:35:27</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1325568857</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.524952</BBRadius>
+        <BBHScale>2.407767</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.933798" Y="-1.427334" Z="-4.633245" />
+        <BoundingMax X="10.856264" Y="1.669963" Z="4.416658" />
+        <BoundingCenter X="-0.038767" Y="0.121315" Z="-0.108294" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Tractor_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_tractor_01.p3d</File>
+        <Date>05/22/23 13:35:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-636600224</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.355503</BBRadius>
+        <BBHScale>0.801818</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.052262" Y="-0.218486" Z="-1.494217" />
+        <BoundingMax X="1.121470" Y="1.522834" Z="1.216788" />
+        <BoundingCenter X="0.034604" Y="0.652174" Z="-0.138715" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_01</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_01.p3d</File>
+        <Date>05/22/23 13:35:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1811688685</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.414876</BBRadius>
+        <BBHScale>0.934584</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.349033" Y="-0.028723" Z="-1.372597" />
+        <BoundingMax X="1.295608" Y="1.430395" Z="1.457155" />
+        <BoundingCenter X="-0.026712" Y="0.700836" Z="0.042279" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_01_Grey</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_01_grey.p3d</File>
+        <Date>05/22/23 13:35:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1955331471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.414876</BBRadius>
+        <BBHScale>0.934584</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.349033" Y="-0.028723" Z="-1.372597" />
+        <BoundingMax X="1.295608" Y="1.430395" Z="1.457155" />
+        <BoundingCenter X="-0.026712" Y="0.700836" Z="0.042279" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_01_Olive</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_01_olive.p3d</File>
+        <Date>05/22/23 13:35:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1580002057</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.414876</BBRadius>
+        <BBHScale>0.934584</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.349033" Y="-0.028723" Z="-1.372597" />
+        <BoundingMax X="1.295608" Y="1.430395" Z="1.457155" />
+        <BoundingCenter X="-0.026712" Y="0.700836" Z="0.042279" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_02</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_02.p3d</File>
+        <Date>05/22/23 13:35:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1811688686</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.012769</BBRadius>
+        <BBHScale>1.583740</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.335194" Y="-0.012752" Z="-1.005703" />
+        <BoundingMax X="1.872732" Y="0.907349" Z="1.019835" />
+        <BoundingCenter X="0.268769" Y="0.447299" Z="0.007066" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_02_Navy</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_02_navy.p3d</File>
+        <Date>05/22/23 13:35:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-553511545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.012769</BBRadius>
+        <BBHScale>1.583740</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.335194" Y="-0.012752" Z="-1.005703" />
+        <BoundingMax X="1.872732" Y="0.907349" Z="1.019835" />
+        <BoundingCenter X="0.268769" Y="0.447299" Z="0.007066" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Covered_Pallets_02_Olive</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_covered_pallets_02_olive.p3d</File>
+        <Date>05/22/23 13:35:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>878172554</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.012769</BBRadius>
+        <BBHScale>1.583740</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.335194" Y="-0.012752" Z="-1.005703" />
+        <BoundingMax X="1.872732" Y="0.907349" Z="1.019835" />
+        <BoundingCenter X="0.268769" Y="0.447299" Z="0.007066" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Pallet</Name>
+        <File>ww2\spe_structures\industrial\construction\spe_pallet.p3d</File>
+        <Date>05/22/23 13:35:27</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1707203703</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.607965</BBRadius>
+        <BBHScale>0.995641</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.605314" Y="0.000000" Z="-0.607965" />
+        <BoundingMax X="0.605314" Y="0.158820" Z="0.607965" />
+        <BoundingCenter X="0.000000" Y="0.079410" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Straw_Bale</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_straw_bale.p3d</File>
+        <Date>06/01/23 17:28:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1114777767</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.444045</BBRadius>
+        <BBHScale>1.637034</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.729948" Y="-0.026911" Z="-0.452586" />
+        <BoundingMax X="0.723886" Y="0.592182" Z="0.435504" />
+        <BoundingCenter X="-0.003031" Y="0.282635" Z="-0.008541" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Straw_Bale_Stack_01</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_straw_bale_stack_01.p3d</File>
+        <Date>06/01/23 17:28:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1991678000</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.142309</BBRadius>
+        <BBHScale>1.583252</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.830345" Y="-0.027784" Z="-0.866140" />
+        <BoundingMax X="1.786782" Y="1.126083" Z="1.418479" />
+        <BoundingCenter X="-0.021782" Y="0.549150" Z="0.276170" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Straw_Bale_Stack_02</Name>
+        <File>ww2\spe_structures\industrial\agriculture\spe_straw_bale_stack_02.p3d</File>
+        <Date>06/01/23 17:28:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1991677999</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.928608</BBRadius>
+        <BBHScale>1.923706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.828598" Y="-0.015273" Z="-1.835438" />
+        <BoundingMax X="3.591552" Y="2.155144" Z="2.021778" />
+        <BoundingCenter X="-0.118523" Y="1.069936" Z="0.093170" />
+        <Placement></Placement>
+    </Template>
+</Library>

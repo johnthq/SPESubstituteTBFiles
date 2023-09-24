@@ -1,0 +1,1092 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Military_Supplies" shape="rectangle" default_fill="-16743836" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_57MM_shellcase_01</Name>
+        <File>ww2\spe_structures\military\supplies\spe_57mm_shellcase_01.p3d</File>
+        <Date>02/03/23 16:32:50</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2004619014</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.051208</BBRadius>
+        <BBHScale>1.094490</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.499349" Y="-0.043503" Z="-1.559204" />
+        <BoundingMax X="0.801724" Y="0.043503" Z="0.543212" />
+        <BoundingCenter X="-0.348812" Y="0.000000" Z="-0.507996" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_57MM_shellcase_02</Name>
+        <File>ww2\SPE_Structures\Military\Supplies\SPE_57MM_shellcase_02.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2004619015</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_57MM_shellcase_03</Name>
+        <File>ww2\SPE_Structures\Military\Supplies\SPE_57MM_shellcase_03.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2004619016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammocan_German</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammocan_german.p3d</File>
+        <Date>06/01/23 16:17:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1684001690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.154613</BBRadius>
+        <BBHScale>2.335739</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.208050" Y="-0.001006" Z="-0.081804" />
+        <BoundingMax X="0.514220" Y="0.092394" Z="0.227421" />
+        <BoundingCenter X="0.153085" Y="0.045694" Z="0.072809" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammocrate_US_01</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammocrate_us_01.p3d</File>
+        <Date>04/13/23 13:03:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>492990145</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.229564</BBRadius>
+        <BBHScale>0.612355</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.139654" Y="-0.000239" Z="-0.229564" />
+        <BoundingMax X="0.141495" Y="0.260531" Z="0.229564" />
+        <BoundingCenter X="0.000920" Y="0.130146" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammocrate_US_02</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammocrate_us_02.p3d</File>
+        <Date>04/13/23 13:03:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>492990146</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.405348</BBRadius>
+        <BBHScale>0.493012</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.199841" Y="0.000000" Z="-0.405348" />
+        <BoundingMax X="0.199841" Y="0.270325" Z="0.405348" />
+        <BoundingCenter X="0.000000" Y="0.135163" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammocrate_US_03</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammocrate_us_03.p3d</File>
+        <Date>04/13/23 13:03:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>492990147</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.592340</BBRadius>
+        <BBHScale>0.387551</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.229562" Y="-0.000040" Z="-0.592340" />
+        <BoundingMax X="0.229562" Y="0.346164" Z="0.592340" />
+        <BoundingCenter X="0.000000" Y="0.173062" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammocrate_US_04</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammocrate_us_04.p3d</File>
+        <Date>04/13/23 13:03:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>492990148</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.146608</BBRadius>
+        <BBHScale>0.631121</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.092528" Y="0.000000" Z="-0.146608" />
+        <BoundingMax X="0.092528" Y="0.154863" Z="0.146608" />
+        <BoundingCenter X="0.000000" Y="0.077431" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Artillery_Rounds_US</Name>
+        <File>ww2\spe_structures\military\supplies\spe_artillery_rounds_us.p3d</File>
+        <Date>11/04/22 17:59:49</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>68138632</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.334240</BBRadius>
+        <BBHScale>1.247290</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.416895" Y="0.000000" Z="-0.341746" />
+        <BoundingMax X="0.416895" Y="0.798392" Z="0.326735" />
+        <BoundingCenter X="0.000000" Y="0.399196" Z="-0.007506" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Foodcrate_US_A</Name>
+        <File>ww2\SPE_Structures\Military\Supplies\SPE_Foodcrate_US_A.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377476943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Foodcrate_US_B</Name>
+        <File>ww2\spe_structures\military\supplies\spe_foodcrate_us_b.p3d</File>
+        <Date>09/09/22 15:38:21</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377476942</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.662171</BBRadius>
+        <BBHScale>1.112425</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.764241" Y="0.000000" Z="-0.644534" />
+        <BoundingMax X="0.708990" Y="0.443599" Z="0.679808" />
+        <BoundingCenter X="-0.027626" Y="0.221800" Z="0.017637" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Foodcrate_US_C</Name>
+        <File>ww2\spe_structures\military\supplies\spe_foodcrate_us_c.p3d</File>
+        <Date>09/09/22 15:38:21</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377476941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.662171</BBRadius>
+        <BBHScale>1.112425</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.764241" Y="0.000000" Z="-0.644534" />
+        <BoundingMax X="0.708990" Y="0.443599" Z="0.679808" />
+        <BoundingCenter X="-0.027626" Y="0.221800" Z="0.017637" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Foodcrate_US_D</Name>
+        <File>ww2\SPE_Structures\Military\Supplies\SPE_Foodcrate_US_D.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377476940</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_FuelCan_US</Name>
+        <File>ww2\spe_structures\military\supplies\spe_fuelcan_us.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>84147098</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.162225</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.162225" Y="0.000000" Z="-0.162225" />
+        <BoundingMax X="0.162225" Y="0.458868" Z="0.162225" />
+        <BoundingCenter X="0.000000" Y="0.229434" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Fuel_Barrel_German</Name>
+        <File>ww2\spe_structures\military\supplies\spe_fuel_barrel_german.p3d</File>
+        <Date>06/28/22 16:25:54</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1123246861</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.341477</BBRadius>
+        <BBHScale>1.000001</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.341478" Y="-0.001793" Z="-0.341478" />
+        <BoundingMax X="0.341478" Y="0.882055" Z="0.341477" />
+        <BoundingCenter X="-0.000000" Y="0.440131" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Fuel_Barrel_US</Name>
+        <File>ww2\spe_structures\military\supplies\spe_fuel_barrel_us.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1269146661</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.319072</BBRadius>
+        <BBHScale>1.000157</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.319122" Y="-0.000437" Z="-0.319072" />
+        <BoundingMax X="0.319122" Y="1.024307" Z="0.319072" />
+        <BoundingCenter X="0.000000" Y="0.511935" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Jerrycan</Name>
+        <File>ww2\spe_structures\military\supplies\spe_jerrycan.p3d</File>
+        <Date>04/13/23 13:03:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1653440937</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.195626</BBRadius>
+        <BBHScale>0.529092</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119055" Y="-0.002641" Z="-0.193630" />
+        <BoundingMax X="0.087953" Y="0.539948" Z="0.197621" />
+        <BoundingCenter X="-0.015551" Y="0.268654" Z="0.001995" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Pak40Box_01</Name>
+        <File>ww2\spe_structures\military\supplies\spe_pak40box_01.p3d</File>
+        <Date>12/23/22 16:44:49</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-455986860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.263059</BBRadius>
+        <BBHScale>3.208612</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.846072" Y="0.000825" Z="-0.180640" />
+        <BoundingMax X="0.842037" Y="0.170137" Z="0.345478" />
+        <BoundingCenter X="-0.002017" Y="0.085481" Z="0.082419" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Pak40Box_02</Name>
+        <File>ww2\spe_structures\military\supplies\spe_pak40box_02.p3d</File>
+        <Date>12/23/22 16:44:49</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-455986859</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.396008</BBRadius>
+        <BBHScale>2.131410</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.862265" Y="-0.000056" Z="-0.433633" />
+        <BoundingMax X="0.825845" Y="0.145276" Z="0.358383" />
+        <BoundingCenter X="-0.018210" Y="0.072610" Z="-0.037625" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Pak40Tube</Name>
+        <File>ww2\spe_structures\military\supplies\spe_pak40tube.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-530357277</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.495979</BBRadius>
+        <BBHScale>0.120973</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.060000" Y="-0.005923" Z="-0.495979" />
+        <BoundingMax X="0.060000" Y="0.119923" Z="0.495979" />
+        <BoundingCenter X="0.000000" Y="0.057000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_01</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_01.p3d</File>
+        <Date>07/06/23 15:56:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1240579393</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.229593</BBRadius>
+        <BBHScale>1.272777</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.276284" Y="0.000019" Z="-0.229593" />
+        <BoundingMax X="0.308158" Y="0.182922" Z="0.229593" />
+        <BoundingCenter X="0.015937" Y="0.091471" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_02</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_02.p3d</File>
+        <Date>07/06/23 15:56:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1240579394</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.236535</BBRadius>
+        <BBHScale>1.586294</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.375242" Y="0.000019" Z="-0.236534" />
+        <BoundingMax X="0.375185" Y="0.295122" Z="0.236535" />
+        <BoundingCenter X="-0.000029" Y="0.147571" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_03</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_03.p3d</File>
+        <Date>07/07/23 11:00:40</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1240579395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.472528</BBRadius>
+        <BBHScale>2.047096</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.967310" Y="-0.000285" Z="-0.472528" />
+        <BoundingMax X="0.967310" Y="0.833196" Z="0.472528" />
+        <BoundingCenter X="0.000000" Y="0.416456" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_04</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_04.p3d</File>
+        <Date>07/06/23 15:56:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1240579396</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.305013</BBRadius>
+        <BBHScale>1.748644</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.533360" Y="0.000124" Z="-0.305013" />
+        <BoundingMax X="0.533360" Y="0.303285" Z="0.305013" />
+        <BoundingCenter X="0.000000" Y="0.151704" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_05</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_05.p3d</File>
+        <Date>07/06/23 15:56:22</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1240579397</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.163176</BBRadius>
+        <BBHScale>3.757357</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.613108" Y="0.000078" Z="-0.163176" />
+        <BoundingMax X="0.613110" Y="0.187052" Z="0.163176" />
+        <BoundingCenter X="0.000001" Y="0.093565" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_01_stack</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_01_stack.p3d</File>
+        <Date>11/30/22 17:25:14</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1716592330</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.634232</BBRadius>
+        <BBHScale>1.392100</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.931003" Y="0.000019" Z="-0.659117" />
+        <BoundingMax X="0.834827" Y="0.728368" Z="0.609348" />
+        <BoundingCenter X="-0.048088" Y="0.364194" Z="-0.024885" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_02_Covered</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_02_covered.p3d</File>
+        <Date>06/14/23 16:05:47</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1500353607</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.008987</BBRadius>
+        <BBHScale>1.116974</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.086088" Y="-0.000135" Z="-1.009994" />
+        <BoundingMax X="1.167937" Y="0.894084" Z="1.007980" />
+        <BoundingCenter X="0.040925" Y="0.446975" Z="-0.001007" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_02_stack</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_02_stack.p3d</File>
+        <Date>11/30/22 17:25:12</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1014762827</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.911686</BBRadius>
+        <BBHScale>1.211450</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.040985" Y="0.000019" Z="-0.910517" />
+        <BoundingMax X="1.167937" Y="0.887585" Z="0.912854" />
+        <BoundingCenter X="0.063476" Y="0.443802" Z="0.001168" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_03_Covered</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_03_covered.p3d</File>
+        <Date>06/14/23 16:05:47</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2041326010</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.734827</BBRadius>
+        <BBHScale>0.995651</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.242517" Y="-0.000285" Z="-1.279548" />
+        <BoundingMax X="1.212049" Y="1.703440" Z="2.190106" />
+        <BoundingCenter X="-0.515234" Y="0.851577" Z="0.455279" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_03_stack</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_03_stack.p3d</File>
+        <Date>11/30/22 17:25:11</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>312933324</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.652803</BBRadius>
+        <BBHScale>0.774509</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.693497" Y="-0.000285" Z="-1.115501" />
+        <BoundingMax X="0.866726" Y="1.666986" Z="2.190106" />
+        <BoundingCenter X="-0.413386" Y="0.833350" Z="0.537302" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_04_Covered</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_04_covered.p3d</File>
+        <Date>09/06/23 12:18:41</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1288038331</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.016491</BBRadius>
+        <BBHScale>1.061540</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.520520</Height>
+        <BoundingMin X="-1.009104" Y="-0.056736" Z="-1.020707" />
+        <BoundingMax X="1.148986" Y="0.984304" Z="1.012275" />
+        <BoundingCenter X="0.069941" Y="0.463784" Z="-0.004216" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_04_stack</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_04_stack.p3d</File>
+        <Date>11/30/22 17:25:11</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-388896179</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.941457</BBRadius>
+        <BBHScale>1.108850</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.009104" Y="0.000124" Z="-0.932996" />
+        <BoundingMax X="1.078766" Y="0.956900" Z="0.949918" />
+        <BoundingCenter X="0.034831" Y="0.478512" Z="0.008461" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ammobox_German_05_stack</Name>
+        <File>ww2\spe_structures\military\supplies\spe_ammobox_german_05_stack.p3d</File>
+        <Date>11/30/22 17:25:10</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1090725682</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.529766</BBRadius>
+        <BBHScale>1.399437</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.820722" Y="0.000078" Z="-0.540742" />
+        <BoundingMax X="0.662027" Y="0.561591" Z="0.518791" />
+        <BoundingCenter X="-0.079348" Y="0.280834" Z="-0.010976" />
+        <Placement></Placement>
+    </Template>
+</Library>

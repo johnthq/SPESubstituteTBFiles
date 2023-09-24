@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Gates" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Wood_Gate_4m_01</Name>
+        <File>ww2\spe_structures\walls\gates\spe_wood_gate_4m_01.p3d</File>
+        <Date>06/14/23 13:45:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1867542066</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.127948</BBRadius>
+        <BBHScale>0.654132</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.096134" Y="-0.339199" Z="-3.680640" />
+        <BoundingMax X="2.304316" Y="1.910801" Z="4.575255" />
+        <BoundingCenter X="-0.395909" Y="0.785801" Z="0.447308" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Gate_4m_02</Name>
+        <File>ww2\spe_structures\walls\gates\spe_wood_gate_4m_02.p3d</File>
+        <Date>06/14/23 13:45:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1867542065</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.111466</BBRadius>
+        <BBHScale>0.645373</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.067559" Y="-0.447488" Z="-3.688198" />
+        <BoundingMax X="2.239295" Y="1.955293" Z="4.534733" />
+        <BoundingCenter X="-0.414132" Y="0.753902" Z="0.423267" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Gate_5m_01</Name>
+        <File>ww2\spe_structures\walls\gates\spe_wood_gate_5m_01.p3d</File>
+        <Date>06/14/23 13:45:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-727977777</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.607687</BBRadius>
+        <BBHScale>0.745242</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.067559" Y="-0.397235" Z="-3.680640" />
+        <BoundingMax X="2.800124" Y="1.602765" Z="5.534733" />
+        <BoundingCenter X="-0.633718" Y="0.602765" Z="0.927047" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Gate_5m_02</Name>
+        <File>ww2\spe_structures\walls\gates\spe_wood_gate_5m_02.p3d</File>
+        <Date>06/14/23 13:45:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-727977776</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.607687</BBRadius>
+        <BBHScale>0.739754</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.067559" Y="-0.397235" Z="-3.680640" />
+        <BoundingMax X="2.749552" Y="1.602765" Z="5.534733" />
+        <BoundingCenter X="-0.659004" Y="0.602765" Z="0.927047" />
+        <Placement></Placement>
+    </Template>
+</Library>

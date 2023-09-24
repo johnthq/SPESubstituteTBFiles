@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="SPE_A3_Cultural" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_A3_church_04_lightblue_damaged</Name>
+        <File>ww2\spe_structures\spe_a3_cultural\spe_a3_church_04_lightblue_damaged.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1965569555</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_A3_church_04_white_damaged</Name>
+        <File>ww2\spe_structures\spe_a3_cultural\spe_a3_church_04_white_damaged.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1767200154</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_A3_church_04_white_red_damaged</Name>
+        <File>ww2\spe_structures\spe_a3_cultural\spe_a3_church_04_white_red_damaged.p3d</File>
+        <Date>06/07/22 16:38:16</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1075237384</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_A3_church_04_yellow_damaged</Name>
+        <File>ww2\spe_structures\spe_a3_cultural\spe_a3_church_04_yellow_damaged.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1243874403</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+</Library>

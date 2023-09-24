@@ -1,0 +1,828 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Items_Civilian" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Bicycle_01</Name>
+        <File>ww2\spe_structures\items\civilian\spe_bicycle_01.p3d</File>
+        <Date>03/02/23 14:43:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>38838424</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.362885</BBRadius>
+        <BBHScale>3.055706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.988036" Y="-0.013566" Z="-0.348637" />
+        <BoundingMax X="1.229703" Y="1.139774" Z="0.377133" />
+        <BoundingCenter X="0.120833" Y="0.563104" Z="0.014248" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bottle_Shelf</Name>
+        <File>ww2\spe_structures\items\civilian\spe_bottle_shelf.p3d</File>
+        <Date>03/02/23 14:43:04</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1904852840</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.157630</BBRadius>
+        <BBHScale>6.335693</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.019943" Y="-0.000012" Z="-0.033003" />
+        <BoundingMax X="0.977443" Y="1.748114" Z="0.282256" />
+        <BoundingCenter X="-0.021250" Y="0.874051" Z="0.124627" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bottle_Shelf_Empty</Name>
+        <File>ww2\spe_structures\items\civilian\spe_bottle_shelf_empty.p3d</File>
+        <Date>08/28/23 17:03:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>765172694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cider_Bottle_01</Name>
+        <File>ww2\spe_structures\items\civilian\spe_cider_bottle_01.p3d</File>
+        <Date>03/02/23 14:43:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>419481999</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.029023</BBRadius>
+        <BBHScale>1.000738</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.028177" Y="-0.000234" Z="-0.030333" />
+        <BoundingMax X="0.029912" Y="0.255180" Z="0.027713" />
+        <BoundingCenter X="0.000867" Y="0.127473" Z="-0.001310" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cider_Bottle_02</Name>
+        <File>ww2\spe_structures\items\civilian\spe_cider_bottle_02.p3d</File>
+        <Date>03/02/23 14:43:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>419482000</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.029023</BBRadius>
+        <BBHScale>1.000738</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.028177" Y="-0.000234" Z="-0.030333" />
+        <BoundingMax X="0.029912" Y="0.255180" Z="0.027713" />
+        <BoundingCenter X="0.000867" Y="0.127473" Z="-0.001310" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cider_Bottle_03</Name>
+        <File>ww2\spe_structures\items\civilian\spe_cider_bottle_03.p3d</File>
+        <Date>03/02/23 14:43:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>419482001</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.186780</BBRadius>
+        <BBHScale>1.285300</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.348978" Y="-0.007542" Z="-0.245182" />
+        <BoundingMax X="0.131160" Y="0.255180" Z="0.128379" />
+        <BoundingCenter X="-0.108909" Y="0.123819" Z="-0.058402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_01_Blue</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_01_blue.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1568606164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.396518" Y="0.000006" Z="-0.490515" />
+        <BoundingMax X="0.367591" Y="0.992828" Z="0.467180" />
+        <BoundingCenter X="-0.014464" Y="0.496417" Z="-0.011667" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_01_Green</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_01_green.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1828500745</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_01_White</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_01_white.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-595214513</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478859</BBRadius>
+        <BBHScale>0.797844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.396250" Y="0.000012" Z="-0.495462" />
+        <BoundingMax X="0.367859" Y="0.993343" Z="0.462256" />
+        <BoundingCenter X="-0.014196" Y="0.496678" Z="-0.016603" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_02_Blue</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_02_blue.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1940613395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_02_Green</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_02_green.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1126671242</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_02_White</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_02_white.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1297044016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_03_Blue</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_03_blue.p3d</File>
+        <Date>03/02/23 14:43:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1982346670</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_03_Green</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_03_green.p3d</File>
+        <Date>03/02/23 14:43:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>424841739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478847</BBRadius>
+        <BBHScale>0.797863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392298" Y="-0.000015" Z="-0.487633" />
+        <BoundingMax X="0.371811" Y="0.992863" Z="0.470061" />
+        <BoundingCenter X="-0.010244" Y="0.496424" Z="-0.008786" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Doghouse_03_White</Name>
+        <File>ww2\spe_structures\items\civilian\spe_doghouse_03_white.p3d</File>
+        <Date>03/02/23 14:43:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1998873519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.478859</BBRadius>
+        <BBHScale>0.797844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.396250" Y="0.000012" Z="-0.495462" />
+        <BoundingMax X="0.367859" Y="0.993343" Z="0.462256" />
+        <BoundingCenter X="-0.014196" Y="0.496678" Z="-0.016603" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Fountain</Name>
+        <File>ww2\spe_structures\items\civilian\spe_fountain.p3d</File>
+        <Date>03/02/23 14:43:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2100396715</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.690040</BBRadius>
+        <BBHScale>0.957468</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.574670" Y="-0.072074" Z="-1.684090" />
+        <BoundingMax X="1.661650" Y="1.370070" Z="1.695990" />
+        <BoundingCenter X="0.043490" Y="0.648998" Z="0.005950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ladder</Name>
+        <File>ww2\spe_structures\items\civilian\spe_ladder.p3d</File>
+        <Date>03/02/23 14:43:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1796647559</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.254337</BBRadius>
+        <BBHScale>0.189054</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571568" Y="-1.015037" Z="-3.480177" />
+        <BoundingMax X="0.658923" Y="2.128985" Z="3.028496" />
+        <BoundingCenter X="0.043677" Y="0.556974" Z="-0.225841" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Litter_Long</Name>
+        <File>ww2\spe_structures\items\civilian\spe_litter_long.p3d</File>
+        <Date>03/02/23 14:43:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1323040314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.791160</BBRadius>
+        <BBHScale>0.257659</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.080108" Y="-0.018991" Z="-3.279240" />
+        <BoundingMax X="1.358230" Y="0.099295" Z="2.303080" />
+        <BoundingCenter X="0.639061" Y="0.040152" Z="-0.488080" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Litter_Square3</Name>
+        <File>ww2\spe_structures\items\civilian\spe_litter_square3.p3d</File>
+        <Date>03/02/23 14:43:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>392743512</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.273485</BBRadius>
+        <BBHScale>0.980879</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.266080" Y="-0.015462" Z="-1.438320" />
+        <BoundingMax X="1.232190" Y="0.099295" Z="1.108650" />
+        <BoundingCenter X="-0.016945" Y="0.041916" Z="-0.164835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Litter_Square5</Name>
+        <File>ww2\spe_structures\items\civilian\spe_litter_square5.p3d</File>
+        <Date>03/02/23 14:43:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>392743514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.310980</BBRadius>
+        <BBHScale>0.867236</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.041900" Y="-0.040423" Z="-2.382760" />
+        <BoundingMax X="1.966430" Y="0.099295" Z="2.239200" />
+        <BoundingCenter X="-0.037735" Y="0.029436" Z="-0.071780" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Onion_Lamp</Name>
+        <File>ww2\spe_structures\items\civilian\spe_onion_lamp.p3d</File>
+        <Date>05/22/23 13:59:07</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1897122939</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.173162</BBRadius>
+        <BBHScale>0.987512</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.171000" Y="0.000011" Z="-0.173162" />
+        <BoundingMax X="0.171000" Y="0.562306" Z="0.173163" />
+        <BoundingCenter X="0.000000" Y="0.281159" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cider_Crate</Name>
+        <File>ww2\spe_structures\items\civilian\spe_cider_crate.p3d</File>
+        <Date>03/02/23 14:43:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1576787976</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.101736</BBRadius>
+        <BBHScale>1.534022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.159950" Y="0.005990" Z="-0.102253" />
+        <BoundingMax X="0.152181" Y="0.278027" Z="0.101219" />
+        <BoundingCenter X="-0.003884" Y="0.142008" Z="-0.000517" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Cider_Crate_Empty</Name>
+        <File>ww2\spe_structures\items\civilian\spe_cider_crate_empty.p3d</File>
+        <Date>03/02/23 14:43:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1733548954</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.101736</BBRadius>
+        <BBHScale>1.534022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.159950" Y="0.005990" Z="-0.102253" />
+        <BoundingMax X="0.152181" Y="0.208995" Z="0.101219" />
+        <BoundingCenter X="-0.003884" Y="0.107492" Z="-0.000517" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_US_Lamp</Name>
+        <File>ww2\spe_structures\items\civilian\spe_us_lamp.p3d</File>
+        <Date>05/22/23 13:59:07</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1715769822</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.092508</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.092508" Y="0.000000" Z="-0.092508" />
+        <BoundingMax X="0.092508" Y="0.315268" Z="0.092508" />
+        <BoundingCenter X="0.000000" Y="0.157634" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Ger_Lamp</Name>
+        <File>ww2\spe_structures\items\civilian\spe_ger_lamp.p3d</File>
+        <Date>05/22/23 13:59:07</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1076531642</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.065247</BBRadius>
+        <BBHScale>1.265836</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.082592" Y="-0.000000" Z="-0.065247" />
+        <BoundingMax X="0.082592" Y="0.316988" Z="0.065247" />
+        <BoundingCenter X="0.000000" Y="0.158494" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

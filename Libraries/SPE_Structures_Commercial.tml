@@ -1,0 +1,300 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Commercial" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Office_Small_01</Name>
+        <File>ww2\spe_structures\commercial\office\spe_office_small_01.p3d</File>
+        <Date>05/16/23 14:00:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1453492997</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.577682</BBRadius>
+        <BBHScale>0.874165</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.505914" Y="-0.905134" Z="-6.528447" />
+        <BoundingMax X="3.994050" Y="8.541963" Z="6.626918" />
+        <BoundingCenter X="-1.755932" Y="3.818414" Z="0.049236" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Office_Small_02</Name>
+        <File>ww2\spe_structures\commercial\office\spe_office_small_02.p3d</File>
+        <Date>05/16/23 14:00:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1453492998</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.958104</BBRadius>
+        <BBHScale>0.617807</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.464343" Y="-0.873806" Z="-7.097380" />
+        <BoundingMax X="5.604422" Y="6.690000" Z="10.818829" />
+        <BoundingCenter X="0.070040" Y="2.908097" Z="1.860724" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_01</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_shop_01.p3d</File>
+        <Date>05/22/23 16:23:36</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2020890637</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.141026</BBRadius>
+        <BBHScale>1.046830</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.421536" Y="-1.946427" Z="-6.054113" />
+        <BoundingMax X="6.435686" Y="10.614574" Z="6.227938" />
+        <BoundingCenter X="0.007075" Y="4.334074" Z="0.086912" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_02</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_shop_02.p3d</File>
+        <Date>05/16/23 13:31:10</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2020890636</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.482413</BBRadius>
+        <BBHScale>1.363936</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.953266" Y="-1.814043" Z="-6.285857" />
+        <BoundingMax X="10.457805" Y="12.586784" Z="8.678970" />
+        <BoundingCenter X="0.252269" Y="5.386371" Z="1.196557" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_03</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_shop_03.p3d</File>
+        <Date>05/16/23 15:00:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2020890635</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.862259</BBRadius>
+        <BBHScale>0.501979</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.645942" Y="-2.064512" Z="-8.938630" />
+        <BoundingMax X="5.255348" Y="7.745340" Z="10.785889" />
+        <BoundingCenter X="0.304703" Y="2.840414" Z="0.923629" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Shop_04</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_shop_04.p3d</File>
+        <Date>05/16/23 13:31:10</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2020890634</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.603073</BBRadius>
+        <BBHScale>0.850653</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.464643" Y="-1.680458" Z="-11.014912" />
+        <BoundingMax X="9.171820" Y="5.310000" Z="6.191235" />
+        <BoundingCenter X="1.853588" Y="1.814771" Z="-2.411839" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_MarketStall_01</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_marketstall_01.p3d</File>
+        <Date>05/16/23 13:31:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1025435091</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.496005</BBRadius>
+        <BBHScale>1.345461</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.915140" Y="-0.308183" Z="-1.414091" />
+        <BoundingMax X="2.110493" Y="2.749956" Z="1.577919" />
+        <BoundingCenter X="0.097677" Y="1.220887" Z="0.081914" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_MarketStall_02</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_marketstall_02.p3d</File>
+        <Date>05/16/23 13:49:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1025435092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.707378</BBRadius>
+        <BBHScale>1.195094</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.958035" Y="-0.836637" Z="-1.316277" />
+        <BoundingMax X="2.122921" Y="2.897023" Z="2.098480" />
+        <BoundingCenter X="0.082443" Y="1.030193" Z="0.391101" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_MarketStall_03</Name>
+        <File>ww2\spe_structures\commercial\shops\spe_marketstall_03.p3d</File>
+        <Date>05/16/23 13:31:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1025435093</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.577775</BBRadius>
+        <BBHScale>1.782830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.812905" Y="-1.082611" Z="-1.577775" />
+        <BoundingMax X="2.812904" Y="2.600287" Z="1.577775" />
+        <BoundingCenter X="-0.000000" Y="0.758838" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

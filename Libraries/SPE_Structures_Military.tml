@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Military" shape="rectangle" default_fill="-16743836" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Slit_Trench_fence_short</Name>
+        <File>ww2\spe_structures\military\trenches\spe_slit_trench_fence_short.p3d</File>
+        <Date>06/28/22 20:03:59</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1277314239</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.578928</BBRadius>
+        <BBHScale>0.022960</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.947544</Height>
+        <BoundingMin X="-0.036253" Y="-0.947544" Z="-1.578928" />
+        <BoundingMax X="0.036253" Y="0.947544" Z="1.578928" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Slit_Trench_support</Name>
+        <File>ww2\spe_structures\military\trenches\spe_slit_trench_support.p3d</File>
+        <Date>06/28/22 20:03:59</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1112752032</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.106351</BBRadius>
+        <BBHScale>8.161236</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.029498</Height>
+        <BoundingMin X="-0.867955" Y="-2.029498" Z="-0.106351" />
+        <BoundingMax X="0.867955" Y="2.029498" Z="0.106351" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_01</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_01.p3d</File>
+        <Date>06/30/23 10:49:27</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>567456694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.036196</BBRadius>
+        <BBHScale>3.615935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.918451</Height>
+        <BoundingMin X="-3.047668" Y="-0.218843" Z="-1.131160" />
+        <BoundingMax X="4.445970" Y="1.618058" Z="0.941233" />
+        <BoundingCenter X="0.699151" Y="0.699608" Z="-0.094964" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_02</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_02.p3d</File>
+        <Date>06/30/23 10:49:27</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>567456695</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.036196</BBRadius>
+        <BBHScale>3.749949</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.918451</Height>
+        <BoundingMin X="-3.325398" Y="-0.218843" Z="-1.131160" />
+        <BoundingMax X="4.445970" Y="1.618058" Z="0.941233" />
+        <BoundingCenter X="0.560286" Y="0.699608" Z="-0.094964" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_03</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_03.p3d</File>
+        <Date>09/14/23 11:29:39</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>567456696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_04</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_04.p3d</File>
+        <Date>06/30/23 10:49:25</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>567456697</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.593902</BBRadius>
+        <BBHScale>2.528137</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.528065</Height>
+        <BoundingMin X="-1.480948" Y="-0.052544" Z="-0.614091" />
+        <BoundingMax X="1.521984" Y="1.003586" Z="0.573713" />
+        <BoundingCenter X="0.020518" Y="0.475521" Z="-0.020189" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_End</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_end.p3d</File>
+        <Date>06/30/23 10:49:25</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>287608518</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.623982</BBRadius>
+        <BBHScale>0.861925</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.886038</Height>
+        <BoundingMin X="-0.616446" Y="-0.215587" Z="-0.644777" />
+        <BoundingMax X="0.459205" Y="1.556489" Z="0.603187" />
+        <BoundingCenter X="-0.078621" Y="0.670451" Z="-0.020795" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_BarbedWire_Posts</Name>
+        <File>ww2\spe_structures\military\spe_barbedwire_posts.p3d</File>
+        <Date>06/30/23 10:49:25</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>784561950</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.381587</BBRadius>
+        <BBHScale>6.160311</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.886589</Height>
+        <BoundingMin X="-1.964165" Y="-0.155121" Z="-0.282696" />
+        <BoundingMax X="2.737229" Y="1.618058" Z="0.480479" />
+        <BoundingCenter X="0.386532" Y="0.731469" Z="0.098892" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Crater_Decal_Large</Name>
+        <File>ww2\spe_structures\military\spe_crater_decal_large.p3d</File>
+        <Date>07/15/22 11:59:54</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-934964848</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.848632</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.848632" Y="0.000000" Z="-7.848632" />
+        <BoundingMax X="7.848632" Y="0.000000" Z="7.848632" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Crater_Decal_Small</Name>
+        <File>ww2\spe_structures\military\spe_crater_decal_small.p3d</File>
+        <Date>07/15/22 11:59:54</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-910955204</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.226059</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.226059" Y="0.000000" Z="-5.226059" />
+        <BoundingMax X="5.226059" Y="0.000000" Z="5.226059" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Element_c</Name>
+        <File>ww2\spe_structures\military\spe_element_c.p3d</File>
+        <Date>05/22/23 12:26:37</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2079671447</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.409596</BBRadius>
+        <BBHScale>0.632078</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.523054" Y="-0.001734" Z="-2.237526" />
+        <BoundingMax X="1.523053" Y="2.645968" Z="2.581667" />
+        <BoundingCenter X="-0.000000" Y="1.322117" Z="0.172070" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Element_c_rust</Name>
+        <File>ww2\spe_structures\military\spe_element_c_rust.p3d</File>
+        <Date>05/22/23 12:26:38</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-226275078</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.409596</BBRadius>
+        <BBHScale>0.632078</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.523054" Y="-0.001734" Z="-2.237526" />
+        <BoundingMax X="1.523053" Y="2.645968" Z="2.581667" />
+        <BoundingCenter X="-0.000000" Y="1.322117" Z="0.172070" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Guardbox</Name>
+        <File>ww2\spe_structures\military\spe_guardbox.p3d</File>
+        <Date>05/22/23 12:41:37</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1852460131</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.919124</BBRadius>
+        <BBHScale>0.934242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.616495</Height>
+        <BoundingMin X="-0.853471" Y="-0.364052" Z="-1.668067" />
+        <BoundingMax X="0.863898" Y="2.868938" Z="0.170181" />
+        <BoundingCenter X="0.005214" Y="1.252443" Z="-0.748943" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_HedgeHog</Name>
+        <File>ww2\spe_structures\military\spe_hedgehog.p3d</File>
+        <Date>05/22/23 12:26:37</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1259260306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.966920</BBRadius>
+        <BBHScale>0.922244</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.898832" Y="-0.007875" Z="-0.990950" />
+        <BoundingMax X="0.884640" Y="1.501441" Z="0.942890" />
+        <BoundingCenter X="-0.007096" Y="0.746783" Z="-0.024030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Tent_01</Name>
+        <File>ww2\spe_structures\military\spe_tent_01.p3d</File>
+        <Date>05/19/23 15:28:52</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1855957326</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.311113</BBRadius>
+        <BBHScale>1.624446</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.070499</Height>
+        <BoundingMin X="-7.001848" Y="-0.456835" Z="-4.312512" />
+        <BoundingMax X="7.004492" Y="3.684163" Z="4.309714" />
+        <BoundingCenter X="0.001322" Y="1.613664" Z="-0.001399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Tent_02</Name>
+        <File>ww2\spe_structures\military\spe_tent_02.p3d</File>
+        <Date>05/19/23 15:28:52</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1855957325</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.311113</BBRadius>
+        <BBHScale>1.624446</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.001848" Y="-0.199056" Z="-4.312512" />
+        <BoundingMax X="7.004492" Y="4.223165" Z="4.309714" />
+        <BoundingCenter X="0.001322" Y="2.012054" Z="-0.001399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Tent_03</Name>
+        <File>ww2\spe_structures\military\spe_tent_03.p3d</File>
+        <Date>05/19/23 15:28:52</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1855957324</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.493663</BBRadius>
+        <BBHScale>1.617693</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.938302" Y="-0.691153" Z="-6.492162" />
+        <BoundingMax X="11.071208" Y="5.952806" Z="6.495164" />
+        <BoundingCenter X="0.566453" Y="2.630826" Z="0.001501" />
+        <Placement></Placement>
+    </Template>
+</Library>

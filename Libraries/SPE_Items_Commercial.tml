@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Items_Commercial" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Wooden_Barrel_01</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_01.p3d</File>
+        <Date>05/22/23 16:15:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1954745272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.300000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.300000" Y="-0.000000" Z="-0.300000" />
+        <BoundingMax X="0.300000" Y="0.814196" Z="0.300000" />
+        <BoundingCenter X="0.000000" Y="0.407098" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_01_Side</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_01_side.p3d</File>
+        <Date>05/22/23 16:15:21</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1463077358</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.400277</BBRadius>
+        <BBHScale>0.675570</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.270415" Y="-0.270415" Z="-0.402917" />
+        <BoundingMax X="0.270416" Y="0.270415" Z="0.397637" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-0.002640" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_01_Small</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_01_small.p3d</File>
+        <Date>03/02/23 14:45:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-124532688</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.208012</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.208012" Y="-0.001802" Z="-0.208012" />
+        <BoundingMax X="0.208012" Y="0.659187" Z="0.208012" />
+        <BoundingCenter X="0.000000" Y="0.328692" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_02_Brown</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_02_brown.p3d</File>
+        <Date>03/02/23 14:44:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1000232736</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.336934</BBRadius>
+        <BBHScale>1.000783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.334067" Y="-0.000000" Z="-0.340166" />
+        <BoundingMax X="0.340328" Y="0.798959" Z="0.333701" />
+        <BoundingCenter X="0.003131" Y="0.399479" Z="-0.003232" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_02_Green</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_02_green.p3d</File>
+        <Date>03/02/23 14:44:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1975676243</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.336934</BBRadius>
+        <BBHScale>1.000783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.334067" Y="-0.000000" Z="-0.340166" />
+        <BoundingMax X="0.340328" Y="0.798959" Z="0.333701" />
+        <BoundingCenter X="0.003131" Y="0.399479" Z="-0.003232" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_02_Open_Brown</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_02_open_brown.p3d</File>
+        <Date>03/02/23 14:44:46</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-17091241</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.336934</BBRadius>
+        <BBHScale>1.000783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.334067" Y="-0.000000" Z="-0.340166" />
+        <BoundingMax X="0.340328" Y="0.890034" Z="0.333701" />
+        <BoundingCenter X="0.003131" Y="0.445017" Z="-0.003232" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_02_Small_Brown</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_02_small_brown.p3d</File>
+        <Date>03/02/23 14:44:45</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>395181448</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202160</BBRadius>
+        <BBHScale>1.000783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200440" Y="-0.000000" Z="-0.204099" />
+        <BoundingMax X="0.204197" Y="0.479375" Z="0.200221" />
+        <BoundingCenter X="0.001878" Y="0.239688" Z="-0.001939" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wooden_Barrel_02_Small_Green</Name>
+        <File>ww2\spe_structures\items\commercial\spe_wooden_barrel_02_small_green.p3d</File>
+        <Date>05/19/23 11:24:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1714239765</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202160</BBRadius>
+        <BBHScale>1.000783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200440" Y="-0.000000" Z="-0.204099" />
+        <BoundingMax X="0.204197" Y="0.479375" Z="0.200221" />
+        <BoundingCenter X="0.001878" Y="0.239688" Z="-0.001939" />
+        <Placement></Placement>
+    </Template>
+</Library>

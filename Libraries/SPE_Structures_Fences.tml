@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Fences" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Wood_Fence_01_4m_d</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_01_4m_d.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>424777555</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.153159</BBRadius>
+        <BBHScale>13.803555</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.166075" Y="-0.184525" Z="-0.229184" />
+        <BoundingMax X="2.062195" Y="0.956509" Z="0.077133" />
+        <BoundingCenter X="-0.051940" Y="0.385992" Z="-0.076026" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_01_4m_v1</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_01_4m_v1.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-763805172</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.087301</BBRadius>
+        <BBHScale>24.246414</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.166075" Y="-0.184525" Z="-0.097469" />
+        <BoundingMax X="2.067400" Y="0.956509" Z="0.077133" />
+        <BoundingCenter X="-0.049337" Y="0.385992" Z="-0.010168" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_01_4m_v2</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_01_4m_v2.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-763805171</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.087301</BBRadius>
+        <BBHScale>24.246414</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.166075" Y="-0.184525" Z="-0.097469" />
+        <BoundingMax X="2.067400" Y="0.956509" Z="0.077133" />
+        <BoundingCenter X="-0.049337" Y="0.385992" Z="-0.010168" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_02_2m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_02_2m.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-878856497</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.060000</BBRadius>
+        <BBHScale>21.408403</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.320288" Y="-0.039067" Z="-0.084160" />
+        <BoundingMax X="1.248721" Y="1.208549" Z="0.035840" />
+        <BoundingCenter X="-0.035783" Y="0.584741" Z="-0.024160" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_02_2m_d</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_02_2m_d.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-764389612</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.090022</BBRadius>
+        <BBHScale>14.311561</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.320288" Y="-0.039067" Z="-0.084160" />
+        <BoundingMax X="1.256415" Y="1.209571" Z="0.095883" />
+        <BoundingCenter X="-0.031936" Y="0.585252" Z="0.005861" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_02_Gate</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_02_gate.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1649688097</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.470780</BBRadius>
+        <BBHScale>1.104952</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.699150" Y="-0.039067" Z="-1.492593" />
+        <BoundingMax X="1.551133" Y="1.224570" Z="1.448967" />
+        <BoundingCenter X="-0.074008" Y="0.592752" Z="-0.021813" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_02_Post</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_02_post.p3d</File>
+        <Date>02/16/23 16:16:18</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1196224884</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.060000</BBRadius>
+        <BBHScale>1.002394</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.060288" Y="-0.039067" Z="-0.084160" />
+        <BoundingMax X="0.060000" Y="1.160529" Z="0.035840" />
+        <BoundingCenter X="-0.000144" Y="0.560731" Z="-0.024160" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_03_3m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_03_3m.p3d</File>
+        <Date>06/05/23 15:02:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-98203699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.139076</BBRadius>
+        <BBHScale>12.100806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.145302" Y="-0.601880" Z="-0.144272" />
+        <BoundingMax X="0.220552" Y="0.750122" Z="0.133879" />
+        <BoundingCenter X="-1.462375" Y="0.074121" Z="-0.005196" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_03_6m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_03_6m.p3d</File>
+        <Date>06/05/23 14:57:43</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-98006902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.139076</BBRadius>
+        <BBHScale>22.886305</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.145302" Y="-0.601880" Z="-0.144272" />
+        <BoundingMax X="0.220552" Y="0.750122" Z="0.133879" />
+        <BoundingCenter X="-2.962375" Y="0.074121" Z="-0.005196" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Wire_Fence_01_4m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_wire_fence_01_4m.p3d</File>
+        <Date>02/16/23 16:16:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759996950</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.157380</BBRadius>
+        <BBHScale>17.469280</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.137000" Y="-0.309838" Z="-0.162291" />
+        <BoundingMax X="1.361623" Y="1.635723" Z="0.152469" />
+        <BoundingCenter X="-1.387688" Y="0.662943" Z="-0.004911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Wire_Fence_01_8m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_wire_fence_01_8m.p3d</File>
+        <Date>02/16/23 16:16:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759734554</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.152469</BBRadius>
+        <BBHScale>27.003033</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.131304" Y="-0.426539" Z="-0.152469" />
+        <BoundingMax X="4.102940" Y="1.635723" Z="0.152469" />
+        <BoundingCenter X="-0.014182" Y="0.604592" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_04_8m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_04_8m.p3d</File>
+        <Date>06/05/23 14:57:43</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>682711495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.112828</BBRadius>
+        <BBHScale>34.433437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.479466" Y="-1.001730" Z="-0.064731" />
+        <BoundingMax X="0.290628" Y="0.972917" Z="0.160924" />
+        <BoundingCenter X="-3.594419" Y="-0.014406" Z="0.048097" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Fence_04_Post</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_fence_04_post.p3d</File>
+        <Date>02/16/23 16:16:16</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1940239346</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.052884</BBRadius>
+        <BBHScale>1.051207</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.039358" Y="-1.000000" Z="-0.052726" />
+        <BoundingMax X="0.071826" Y="0.944152" Z="0.053043" />
+        <BoundingCenter X="0.016234" Y="-0.027924" Z="0.000158" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Wire_Fence_02_7m</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_wire_fence_02_7m.p3d</File>
+        <Date>02/16/23 16:16:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>20787046</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.278151</BBRadius>
+        <BBHScale>12.730796</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.532173" Y="-1.000000" Z="-0.256302" />
+        <BoundingMax X="3.550000" Y="1.061260" Z="0.300000" />
+        <BoundingCenter X="0.008914" Y="0.030630" Z="0.021849" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Wire_Fence_02_7m_d</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_wire_fence_02_7m_d.p3d</File>
+        <Date>02/16/23 16:16:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1976634325</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.510674</BBRadius>
+        <BBHScale>6.941760</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.539958" Y="-1.000000" Z="-0.721349" />
+        <BoundingMax X="3.550000" Y="1.061260" Z="0.300000" />
+        <BoundingCenter X="0.005021" Y="0.030630" Z="-0.210674" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Wood_Wire_Fence_02_Post</Name>
+        <File>ww2\spe_structures\walls\wood\spe_wood_wire_fence_02_post.p3d</File>
+        <Date>02/16/23 16:16:15</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>376011472</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.062294</BBRadius>
+        <BBHScale>1.160545</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.072764" Y="-1.000020" Z="-0.051507" />
+        <BoundingMax X="0.071826" Y="1.061260" Z="0.073081" />
+        <BoundingCenter X="-0.000469" Y="0.030620" Z="0.010787" />
+        <Placement></Placement>
+    </Template>
+</Library>

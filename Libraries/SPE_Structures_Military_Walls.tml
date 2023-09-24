@@ -1,0 +1,300 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Structures_Military_Walls" shape="rectangle" default_fill="-16743836" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Sandbag_Curve</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_curve.p3d</File>
+        <Date>07/17/23 11:56:29</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>457215581</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.912806</BBRadius>
+        <BBHScale>0.362756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.630721" Y="-0.037004" Z="-2.554974" />
+        <BoundingMax X="1.482555" Y="0.830928" Z="3.270639" />
+        <BoundingCenter X="0.425917" Y="0.396962" Z="0.357833" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Gun_Hole</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_gun_hole.p3d</File>
+        <Date>07/03/23 11:30:56</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246132369</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.570173</BBRadius>
+        <BBHScale>0.468815</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.266753" Y="0.000014" Z="-0.570728" />
+        <BoundingMax X="0.267859" Y="1.115538" Z="0.569618" />
+        <BoundingCenter X="0.000553" Y="0.557776" Z="-0.000555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Long</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_long.p3d</File>
+        <Date>07/11/23 12:47:58</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1906928814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.369032</BBRadius>
+        <BBHScale>0.118263</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.327641" Y="-0.009734" Z="-2.466698" />
+        <BoundingMax X="0.232697" Y="0.776812" Z="2.271366" />
+        <BoundingCenter X="-0.047472" Y="0.383539" Z="-0.097666" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Long_Line</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_long_line.p3d</File>
+        <Date>07/03/23 11:30:57</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>94854725</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.363239</BBRadius>
+        <BBHScale>0.165874</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.407812" Y="-0.065802" Z="-2.338682" />
+        <BoundingMax X="0.376188" Y="0.166421" Z="2.387797" />
+        <BoundingCenter X="-0.015812" Y="0.050310" Z="0.024558" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Long_Thick</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_long_thick.p3d</File>
+        <Date>07/03/23 11:30:59</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1327952724</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.601817</BBRadius>
+        <BBHScale>0.270880</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.370398" Y="-0.035650" Z="-2.626397" />
+        <BoundingMax X="1.039163" Y="0.959130" Z="2.577238" />
+        <BoundingCenter X="0.334383" Y="0.461740" Z="-0.024579" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Nest</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_nest.p3d</File>
+        <Date>09/06/23 12:18:41</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-909151126</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.990862</BBRadius>
+        <BBHScale>1.316192</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.446904</Height>
+        <BoundingMin X="-1.275578" Y="-0.029682" Z="-0.683339" />
+        <BoundingMax X="1.332750" Y="0.864127" Z="1.298384" />
+        <BoundingCenter X="0.028586" Y="0.417223" Z="0.307522" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Short</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_short.p3d</File>
+        <Date>07/11/23 12:47:59</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-72370870</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.153036</BBRadius>
+        <BBHScale>0.237507</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.408029" Y="-0.013021" Z="-1.099426" />
+        <BoundingMax X="0.139679" Y="0.799712" Z="1.206645" />
+        <BoundingCenter X="-0.134175" Y="0.393345" Z="0.053610" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Short_Low</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_short_low.p3d</File>
+        <Date>07/11/23 12:47:56</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>403789887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.580779</BBRadius>
+        <BBHScale>0.335296</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.655610" Y="-0.068797" Z="-1.427699" />
+        <BoundingMax X="0.404449" Y="0.553305" Z="1.733860" />
+        <BoundingCenter X="-0.125580" Y="0.242254" Z="0.153080" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Sandbag_Single</Name>
+        <File>ww2\spe_structures\military\walls\spe_sandbag_single.p3d</File>
+        <Date>07/03/23 11:30:51</Date>
+        <Archive></Archive>
+        <Fill>-16743836</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1250263206</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.588000</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392000" Y="-0.065802" Z="-0.588000" />
+        <BoundingMax X="0.392000" Y="0.156012" Z="0.588000" />
+        <BoundingCenter X="0.000000" Y="0.045105" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

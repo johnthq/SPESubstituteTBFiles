@@ -1,0 +1,1455 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Vegetation_Bocage" shape="rectangle" default_fill="-8323200" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Bocage_Long</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long.p3d</File>
+        <Date>08/25/23 16:46:52</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-503602629</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.565012</BBRadius>
+        <BBHScale>0.255752</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.383775</Height>
+        <BoundingMin X="-1.934765" Y="-4.383775" Z="-7.565012" />
+        <BoundingMax X="1.934765" Y="4.383775" Z="7.565012" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_Long_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long_lc.p3d</File>
+        <Date>08/25/23 16:46:52</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1031549477</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.565012</BBRadius>
+        <BBHScale>0.255752</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.383775</Height>
+        <BoundingMin X="-1.934765" Y="-4.383775" Z="-7.565012" />
+        <BoundingMax X="1.934765" Y="4.383775" Z="7.565012" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_Short</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_short.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-713563395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_Short_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_short_lc.p3d</File>
+        <Date>08/25/23 16:46:47</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>576831129</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.090378</BBRadius>
+        <BBHScale>2.966121</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.069332</Height>
+        <BoundingMin X="-6.090475" Y="-4.069332" Z="-2.090378" />
+        <BoundingMax X="6.310153" Y="4.069332" Z="2.090378" />
+        <BoundingCenter X="0.109839" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_01</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>189373987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_01_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01_lc.p3d</File>
+        <Date>08/25/23 16:46:45</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2077179891</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.090378</BBRadius>
+        <BBHScale>2.913575</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-2.090378" />
+        <BoundingMax X="6.090474" Y="4.982571" Z="2.090378" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_02</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>189373988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_02_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02_lc.p3d</File>
+        <Date>08/25/23 16:46:36</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1437200206</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.299416</BBRadius>
+        <BBHScale>2.913576</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.699522" Y="-5.480828" Z="-2.299416" />
+        <BoundingMax X="6.699522" Y="5.599980" Z="2.299416" />
+        <BoundingCenter X="-0.000000" Y="0.059576" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>189373989</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03_lc.p3d</File>
+        <Date>08/25/23 16:46:35</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-656613007</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.713808</BBRadius>
+        <BBHScale>1.292050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-4.713808" />
+        <BoundingMax X="6.090474" Y="4.982571" Z="4.713808" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_End_01</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_end_01.p3d</File>
+        <Date>08/21/23 15:52:58</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-128</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-821646190</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.363164</BBRadius>
+        <BBHScale>1.376568</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-3.202231" Y="-0.768034" Z="-1.996765" />
+        <BoundingMax X="3.303882" Y="1.733193" Z="2.729564" />
+        <BoundingCenter X="0.050825" Y="0.482580" Z="0.366399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_End_01_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_end_01_lc.p3d</File>
+        <Date>08/21/23 15:52:58</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-128</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1582222140</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.363164</BBRadius>
+        <BBHScale>1.376568</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-3.202231" Y="-0.768034" Z="-1.996765" />
+        <BoundingMax X="3.303882" Y="1.733193" Z="2.729564" />
+        <BoundingCenter X="0.050825" Y="0.482580" Z="0.366399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_End_02</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_end_02.p3d</File>
+        <Date>08/21/23 15:52:58</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-128</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-821646189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.275525</BBRadius>
+        <BBHScale>0.760856</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-3.353380" Y="-0.768034" Z="-4.044999" />
+        <BoundingMax X="3.152734" Y="1.733193" Z="4.506050" />
+        <BoundingCenter X="-0.100323" Y="0.482580" Z="0.230525" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_End_02_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_end_02_lc.p3d</File>
+        <Date>08/21/23 15:52:58</Date>
+        <Archive></Archive>
+        <Fill>-128</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-801634941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.275525</BBRadius>
+        <BBHScale>0.760856</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-3.353380" Y="-0.768034" Z="-4.044999" />
+        <BoundingMax X="3.152734" Y="1.733193" Z="4.506050" />
+        <BoundingCenter X="-0.100323" Y="0.482580" Z="0.230525" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Long</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_long.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-148119479</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>2.036777</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-6.494413" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="6.757085" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="0.131336" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Long_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_long_lc.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1019119027</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>2.036777</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-6.494413" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="6.757085" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="0.131336" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Low_01</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_low_01.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>573256313</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>2.059320</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.280740</Height>
+        <BoundingMin X="-6.624053" Y="-0.828288" Z="-3.025219" />
+        <BoundingMax X="6.774119" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="0.075033" Y="0.452453" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Low_01_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_low_01_lc.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-274281443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>2.059320</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.280740</Height>
+        <BoundingMin X="-6.624053" Y="-0.828288" Z="-3.025219" />
+        <BoundingMax X="6.774119" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="0.075033" Y="0.452453" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Low_02</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_low_02.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>573256314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>1.503447</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-5.077116" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="4.704479" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="-0.186319" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Low_02_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_low_02_lc.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>506305756</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>1.503447</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-5.077116" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="4.704479" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="-0.186319" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Short</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_short.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1248143471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>1.628575</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-5.513487" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="5.082205" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="-0.215641" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Mound_Short_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_mound_short_lc.p3d</File>
+        <Date>08/21/23 15:52:57</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-41865561</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253057</BBRadius>
+        <BBHScale>1.628575</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250614</Height>
+        <BoundingMin X="-5.513487" Y="-0.768034" Z="-3.025219" />
+        <BoundingMax X="5.082205" Y="1.733193" Z="3.480894" />
+        <BoundingCenter X="-0.215641" Y="0.482580" Z="0.227838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_Low_Long</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_low_long.p3d</File>
+        <Date>08/25/23 16:46:50</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-237189242</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.565014</BBRadius>
+        <BBHScale>0.271592</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.427660</Height>
+        <BoundingMin X="-2.054594" Y="-3.439435" Z="-7.565015" />
+        <BoundingMax X="2.054594" Y="3.415886" Z="7.565013" />
+        <BoundingCenter X="0.000000" Y="-0.011775" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_Low_Short</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_low_short.p3d</File>
+        <Date>08/25/23 16:46:49</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-483717006</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.911247</BBRadius>
+        <BBHScale>3.160298</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.029774</Height>
+        <BoundingMin X="-6.040112" Y="-4.029774" Z="-1.911247" />
+        <BoundingMax X="6.040112" Y="4.029774" Z="1.911247" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_long_mound</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long_mound.p3d</File>
+        <Date>08/25/23 16:46:48</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1588699077</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.565012</BBRadius>
+        <BBHScale>0.293105</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.383775</Height>
+        <BoundingMin X="-2.217343" Y="-4.383775" Z="-7.565012" />
+        <BoundingMax X="2.217343" Y="4.383775" Z="7.565012" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_long_mound_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long_mound_lc.p3d</File>
+        <Date>08/25/23 16:46:47</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>780670929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.565012</BBRadius>
+        <BBHScale>0.293105</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.383775</Height>
+        <BoundingMin X="-2.217343" Y="-4.383775" Z="-7.565012" />
+        <BoundingMax X="2.217343" Y="4.383775" Z="7.565012" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_short_mound_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_short_mound_lc.p3d</File>
+        <Date>08/25/23 16:46:38</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1959566223</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.090378</BBRadius>
+        <BBHScale>2.913576</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.069332</Height>
+        <BoundingMin X="-6.090475" Y="-4.069332" Z="-2.090378" />
+        <BoundingMax X="6.090475" Y="4.069332" Z="2.090378" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_short_mound</Name>
+        <File>D:\IFA\how_objects\SPE_Vegetation\Bocage\SPE_bocage_short_mound.p3d</File>
+        <Date>08/25/23 16:46:40</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1991839111</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.090378</BBRadius>
+        <BBHScale>2.913576</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.069332</Height>
+        <BoundingMin X="-6.090475" Y="-4.069332" Z="-2.090378" />
+        <BoundingMax X="6.090475" Y="4.069332" Z="2.090378" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_01_mound</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01_mound.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-512264275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_01_mound_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01_mound_lc.p3d</File>
+        <Date>08/25/23 16:46:36</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>855682537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.100898</BBRadius>
+        <BBHScale>1.485156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.982571</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-4.100898" />
+        <BoundingMax X="6.090474" Y="4.982571" Z="4.100898" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_02_mound</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02_mound.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1214093778</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_02_mound_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02_mound_lc.p3d</File>
+        <Date>08/25/23 16:46:33</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-464031704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.102192</BBRadius>
+        <BBHScale>1.633156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.699522" Y="-5.480828" Z="-4.102192" />
+        <BoundingMax X="6.699522" Y="5.480828" Z="4.102192" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03_mound</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03_mound.p3d</File>
+        <Date>09/14/23 11:41:13</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1915923281</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03_mound_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03_mound_lc.p3d</File>
+        <Date>09/02/23 14:11:10</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1783745945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.713808</BBRadius>
+        <BBHScale>1.292050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-4.713808" />
+        <BoundingMax X="6.090474" Y="4.982571" Z="4.713808" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_long_mound_exp_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long_mound_exp_lc.p3d</File>
+        <Date>08/25/23 16:46:50</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1425555635</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.383958</BBRadius>
+        <BBHScale>0.350593</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.515377</Height>
+        <BoundingMin X="-2.583448" Y="-1.104781" Z="-7.383958" />
+        <BoundingMax X="2.594074" Y="3.925972" Z="7.383958" />
+        <BoundingCenter X="0.005313" Y="1.410595" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_long_mound_rn_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_long_mound_rn_lc.p3d</File>
+        <Date>08/25/23 16:46:47</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1744092448</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.383958</BBRadius>
+        <BBHScale>0.350593</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.303327</Height>
+        <BoundingMin X="-2.583448" Y="-1.104781" Z="-7.383958" />
+        <BoundingMax X="2.594074" Y="1.501872" Z="7.383958" />
+        <BoundingCenter X="0.005313" Y="0.198545" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_short_mound_exp_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_short_mound_exp_lc.p3d</File>
+        <Date>08/25/23 16:46:44</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-72417711</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.588761</BBRadius>
+        <BBHScale>2.354385</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.069332</Height>
+        <BoundingMin X="-6.090475" Y="-4.069332" Z="-2.594074" />
+        <BoundingMax X="6.099406" Y="4.069332" Z="2.583448" />
+        <BoundingCenter X="0.004466" Y="0.000000" Z="-0.005313" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_short_mound_rn_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_short_mound_rn_lc.p3d</File>
+        <Date>08/25/23 16:46:38</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1766507070</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.588761</BBRadius>
+        <BBHScale>2.352660</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.088614</Height>
+        <BoundingMin X="-6.090475" Y="-1.286669" Z="-2.594074" />
+        <BoundingMax X="6.090475" Y="2.890560" Z="2.583448" />
+        <BoundingCenter X="-0.000000" Y="0.801946" Z="-0.005313" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_tree_01_mound_exp_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01_mound_exp_lc.p3d</File>
+        <Date>08/25/23 16:46:37</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1973336437</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.100898</BBRadius>
+        <BBHScale>1.485156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.982571</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-4.100898" />
+        <BoundingMax X="6.090474" Y="4.982571" Z="4.100898" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_tree_01_mound_rn_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_01_mound_rn_lc.p3d</File>
+        <Date>08/25/23 16:46:36</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>382420744</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.100898</BBRadius>
+        <BBHScale>1.485156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.578268</Height>
+        <BoundingMin X="-6.090475" Y="-2.265975" Z="-4.100898" />
+        <BoundingMax X="6.090474" Y="2.890560" Z="4.100898" />
+        <BoundingCenter X="-0.000000" Y="0.312293" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_tree_02_mound_exp_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02_mound_exp_lc.p3d</File>
+        <Date>08/25/23 16:46:34</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-52336182</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.102193</BBRadius>
+        <BBHScale>1.633156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.480828</Height>
+        <BoundingMin X="-6.699522" Y="-5.480828" Z="-4.102192" />
+        <BoundingMax X="6.699522" Y="5.480828" Z="4.102193" />
+        <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Bocage_tree_02_mound_rn_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_02_mound_rn_lc.p3d</File>
+        <Date>08/25/23 16:46:32</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-481074167</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.102192</BBRadius>
+        <BBHScale>1.633156</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.649683</Height>
+        <BoundingMin X="-6.699522" Y="-2.408804" Z="-4.102192" />
+        <BoundingMax X="6.699522" Y="2.890560" Z="4.102192" />
+        <BoundingCenter X="-0.000000" Y="0.240878" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03_mound_exp_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03_mound_exp_lc.p3d</File>
+        <Date>09/02/23 14:11:11</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1789574441</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.715747</BBRadius>
+        <BBHScale>1.291867</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.985962</Height>
+        <BoundingMin X="-6.090475" Y="-4.982571" Z="-4.717687" />
+        <BoundingMax X="6.093760" Y="4.989354" Z="4.713808" />
+        <BoundingCenter X="0.001643" Y="0.003392" Z="-0.001940" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_bocage_tree_03_mound_rn_LC</Name>
+        <File>ww2\spe_vegetation\bocage\spe_bocage_tree_03_mound_rn_lc.p3d</File>
+        <Date>08/25/23 16:46:31</Date>
+        <Archive></Archive>
+        <Fill>-8372224</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>782518506</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.713808</BBRadius>
+        <BBHScale>1.292050</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.733007</Height>
+        <BoundingMin X="-6.090475" Y="-2.575453" Z="-4.713808" />
+        <BoundingMax X="6.090474" Y="2.890560" Z="4.713808" />
+        <BoundingCenter X="-0.000000" Y="0.157554" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="SPE_Items_Cultural" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_Church_Bench</Name>
+        <File>ww2\spe_structures\items\cultural\spe_church_bench.p3d</File>
+        <Date>03/02/23 14:44:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2023443887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.231692</BBRadius>
+        <BBHScale>0.457373</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.438687" Y="-0.000333" Z="-1.233908" />
+        <BoundingMax X="0.687999" Y="1.282057" Z="1.229476" />
+        <BoundingCenter X="0.124656" Y="0.640862" Z="-0.002216" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Church_Calvary_Mary</Name>
+        <File>ww2\spe_structures\items\cultural\spe_church_calvary_mary.p3d</File>
+        <Date>03/02/23 14:44:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1967013403</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.401225</BBRadius>
+        <BBHScale>1.685605</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.905576" Y="-0.161057" Z="-0.355596" />
+        <BoundingMax X="0.447038" Y="2.077839" Z="0.446854" />
+        <BoundingCenter X="-0.229269" Y="0.958391" Z="0.045629" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_Church_Effigy_Mary</Name>
+        <File>ww2\spe_structures\items\cultural\spe_church_effigy_mary.p3d</File>
+        <Date>03/02/23 14:44:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480018915</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.129466</BBRadius>
+        <BBHScale>1.296952</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.159886" Y="-0.000918" Z="-0.150077" />
+        <BoundingMax X="0.175937" Y="0.742860" Z="0.108855" />
+        <BoundingCenter X="0.008025" Y="0.370971" Z="-0.020611" />
+        <Placement></Placement>
+    </Template>
+</Library>

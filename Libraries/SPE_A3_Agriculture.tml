@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Library name="SPE_A3_Agriculture" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>SPE_A3_barn_01_brown</Name>
+        <File>ww2\spe_structures\spe_a3_agriculture\spe_a3_barn_01_brown.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2053635526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.813561</BBRadius>
+        <BBHScale>1.373100</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.749828" Y="-2.043781" Z="-11.998467" />
+        <BoundingMax X="17.438786" Y="5.115661" Z="13.628655" />
+        <BoundingCenter X="-0.155521" Y="1.535940" Z="0.815094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SPE_A3_barn_01_grey</Name>
+        <File>ww2\spe_structures\spe_a3_agriculture\spe_a3_barn_01_grey.p3d</File>
+        <Date>03/02/23 14:47:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-576504337</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.813561</BBRadius>
+        <BBHScale>1.373100</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.749828" Y="-2.043781" Z="-11.998467" />
+        <BoundingMax X="17.438786" Y="5.115661" Z="13.628655" />
+        <BoundingCenter X="-0.155521" Y="1.535940" Z="0.815094" />
+        <Placement></Placement>
+    </Template>
+</Library>
