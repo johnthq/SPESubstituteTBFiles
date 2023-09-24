@@ -1,6 +1,7 @@
 https://community.bistudio.com/wiki/Spearhead_1944_Normandy#Substitute_Files
 
 Spearhead 1944 Terrain Assets for packing
+
 14th September 2023
 
 ------------------------------------------------------------
@@ -11,7 +12,9 @@ The files provided are "origami" substitutes for the real models, this means tha
 Extract the files into your work drive (P:\) so that you have this folder structure:
 
 P:\ww2\SPE_Structures\...
+
 P:\ww2\SPE_Vegetation\...
+
 P:\ww2\SPE_Water\...
 
 
