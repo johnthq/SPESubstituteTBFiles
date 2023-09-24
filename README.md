@@ -1,7 +1,7 @@
 
 # Spearhead 1944 Terrain Assets for packing<br/>
-##### https://community.bistudio.com/wiki/Spearhead_1944_Normandy#Substitute_Files<br/>
-### 14th September 2023<br/>
+https://community.bistudio.com/wiki/Spearhead_1944_Normandy#Substitute_Files<br/>
+14th September 2023<br/>
 
 ------------------------------------------------------------
 <br/>
